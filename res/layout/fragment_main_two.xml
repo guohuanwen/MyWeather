@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:wave="http://schemas.android.com/apk/res-auto"
+    xmlns:ptr="http://schemas.android.com/apk/res-auto"
+    xmlns:ripple="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <com.handmark.pulltorefresh.library.PullToRefreshScrollView
+        android:id="@+id/pull_refresh_scrollview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        ptr:ptrAnimationStyle="flip"
+        ptr:ptrMode="both" >
+
+        <RelativeLayout
+            android:id="@+id/fragment_main_relat"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <RelativeLayout
+                android:id="@+id/fragment_main_Rel2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" >
+
+                <LinearLayout 
+				    android:layout_width="match_parent"
+                	android:layout_height="wrap_content"
+                    android:layout_alignParentTop="true"
+                    android:orientation="vertical"
+				    >
+				    
+				
+                <Button
+                    android:id="@+id/fragment_main_Ib"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="15dp"
+                    android:background="@drawable/touming"
+                    android:layout_gravity="center_horizontal"
+                    android:scaleType="center"
+                     />
+                <TextView
+                        android:id="@+id/fragment_main_TV1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:text="@string/choose"
+                        android:textSize="20sp" />
+                <TextView
+                        android:id="@+id/fragment_main_TV"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:text="@string/initTmp"
+                        android:textSize="28sp" />
+				</LinearLayout>
+                
+
+                <com.john.waveview.WaveView
+                    android:id="@+id/wave_view"
+                    android:layout_width="match_parent"
+                    android:layout_height="300dp"
+                    android:layout_alignParentBottom="true"
+                    wave:above_wave_color="@android:color/holo_orange_dark"
+                    wave:blow_wave_color="@android:color/holo_orange_dark"
+                    wave:progress="15"
+                    wave:wave_height="middle"
+                    wave:wave_hz="normal"
+                    wave:wave_length="middle" >
+
+                    <FrameLayout
+                        android:id="@+id/fragment_main_frameLayout"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        
+                        >
+                    </FrameLayout>
+                </com.john.waveview.WaveView>
+            </RelativeLayout>
+
+            <LinearLayout
+                android:id="@+id/fragment_main_Rel3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/fragment_main_Rel2"
+                android:background="@android:color/holo_orange_dark"
+                android:orientation="vertical" >
+
+                <com.indris.material.RippleView
+                    android:id="@+id/fragment_main_btn"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:background="@drawable/touming"
+                    android:gravity="center"
+                    android:padding="35dp"
+                    android:text="@string/change1"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    ripple:alphaFactor="0.7"
+                    ripple:hover="true"
+                    ripple:rippleColor="@android:color/holo_orange_light" />
+
+                <com.db.chart.view.LineChartView
+                    xmlns:chart="http://schemas.android.com/apk/res-auto"
+                    android:id="@+id/linechart"
+                    android:layout_width="match_parent"
+                    android:layout_height="200dp"
+                    android:layout_marginBottom="2dp"
+                    android:layout_marginLeft="7dp"
+                    android:layout_marginRight="7dp"
+                    android:layout_marginTop="7dp"
+                    android:paddingBottom="10dp"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"
+                    android:paddingTop="10dp"
+                    chart:chart_axisBorderSpacing="0dp"
+                    chart:chart_axisColor="@color/axis"
+                    chart:chart_labelColor="@color/label"
+                    chart:chart_typeface="Roboto-Regular.ttf" >
+                </com.db.chart.view.LineChartView>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/fragment_main_Rel3"
+                android:orientation="vertical" >
+            </LinearLayout>
+        </RelativeLayout>
+    </com.handmark.pulltorefresh.library.PullToRefreshScrollView>
+
+</LinearLayout>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rl"
+    android:layout_width="150dip"
+    android:layout_height="100dip" >
+
+    <!-- android:src="@drawable/test1"android:scaleType="centerCrop" -->
+
+    <ImageView
+        android:id="@+id/iv_pic"
+        android:layout_width="140dip"
+        android:layout_height="100dip"
+        android:paddingBottom="5dip"
+        android:paddingLeft="10dip"
+        android:paddingRight="10dip"
+        android:paddingTop="10dip"
+        android:scaleType="fitXY"
+        />
+    <!-- android:scaleType="fitXY" -->
+
+    <TextView
+        android:id="@+id/tv_time"
+        android:layout_width="120dip"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/iv_pic"
+        android:layout_marginBottom="6dip"
+        android:layout_marginLeft="10dip"
+        android:background="#88252525"
+        android:ellipsize="end"
+        android:paddingLeft="5dip"
+        android:singleLine="true"
+        android:text="12:10"
+        android:textColor="#FFF"
+        android:textSize="10sp" />
+
+    <TextView
+        android:id="@+id/tv_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_time"
+        android:ellipsize="end"
+        android:maxLength="10"
+        android:paddingLeft="12dip"
+        android:paddingRight="5dip"
+        android:singleLine="true"
+        android:text="XXXXXXXXX"
+        android:textSize="11sp" />
+
+</RelativeLayout>

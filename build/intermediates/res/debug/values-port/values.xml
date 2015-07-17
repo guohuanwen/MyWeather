@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/F:/Android开发/MyWeather/build/intermediates/exploded-aar/Android开发/appcompat_v7/unspecified/res/values-port/values.xml -->
+    <eat-comment/>
+    <bool name="abc_action_bar_embed_tabs">false</bool>
+</resources>

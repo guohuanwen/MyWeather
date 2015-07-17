@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="NewApi" severity="ignore">
+        <ignore path="src/com/bcgtgjyb/myweather/db/MyWeatherOpenHelper.java" />
+        <ignore path="src/com/bcgtgjyb/myweather/view/FragmentHour.java" />
+    </issue>
+</lint>

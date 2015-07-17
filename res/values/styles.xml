@@ -1,0 +1,53 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="Theme.AppCompat.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    
+    <style name="EveryDayText" parent="@style/Base.TextAppearance.AppCompat">
+        <item name="android:textSize">15sp</item>
+        <item name="android:gravity">center</item>
+    </style>
+    
+    <style name="HourWeather" parent="@style/Base.TextAppearance.AppCompat">
+        <item name="android:textSize">15sp</item>
+        <item name="android:padding">8dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+        
+    </style>
+    <style name="DayWeather" parent="@style/Base.TextAppearance.AppCompat">
+        <item name="android:textSize">15sp</item>
+        <item name="android:padding">8dp</item>
+    </style>
+    
+    <style name="ListTextView" parent="@style/Base.TextAppearance.AppCompat">
+    	<item name="android:textSize">18sp</item>
+        <item name="android:padding">8dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:singleLine">false</item>
+    </style>
+	<style name="fragment_future_textView" >
+    	<item name="android:textSize">13sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="fragment_widget_textView" >
+    	<item name="android:textSize">10sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:singleLine">true</item>
+    </style>
+</resources>

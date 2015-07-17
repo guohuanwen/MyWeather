@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" 
+    android:weightSum="3">
+    	
+    <LinearLayout 
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        >
+      <TextView 
+        style="@style/ListTextView"
+        android:id="@+id/day_list_item_date"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        />
+      <TextView 
+        style="@style/ListTextView"
+        android:id="@+id/day_list_item_xingqi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        />
+    </LinearLayout>
+    
+    <TextView 
+        style="@style/ListTextView"
+        android:id="@+id/day_list_item_sky"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        />
+    <TextView 
+        style="@style/ListTextView"
+        android:id="@+id/day_list_item_tmp"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"/>
+
+</LinearLayout>

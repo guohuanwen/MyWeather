@@ -1,0 +1,3485 @@
+<?xml version="1.0" encoding="utf-8"?>
+<channel>
+  <Country name="中国">
+  <Province name="北京市">
+    <City name="北京市">
+      <County name="北京市" code="101010100" />
+    </City>
+    <City name="海淀区">
+      <County name="海淀区" code="101010200" />
+    </City>
+    <City name="朝阳区">
+      <County name="朝阳区" code="101010300" />
+    </City>
+    <City name="顺义区">
+      <County name="顺义区" code="101010400" />
+    </City>
+    <City name="怀柔区">
+      <County name="怀柔区" code="101010500" />
+    </City>
+    <City name="通州区">
+      <County name="通州区" code="101010600" />
+    </City>
+    <City name="昌平区">
+      <County name="昌平区" code="101010700" />
+    </City>
+    <City name="延庆县">
+      <County name="延庆县" code="101010800" />
+    </City>
+    <City name="丰台区">
+      <County name="丰台区" code="101010900" />
+    </City>
+    <City name="石景山区">
+      <County name="石景山区" code="101011000" />
+    </City>
+    <City name="大兴区">
+      <County name="大兴区" code="101011100" />
+    </City>
+    <City name="房山区">
+      <County name="房山区" code="101011200" />
+    </City>
+    <City name="密云县">
+      <County name="密云县" code="101011300" />
+    </City>
+    <City name="门头沟区">
+      <County name="门头沟区" code="101011400" />
+    </City>
+    <City name="平谷区">
+      <County name="平谷区" code="101011500" />
+    </City>
+  </Province>
+  <Province name="上海市">
+    <City name="上海市">
+      <County name="上海市" code="101020100" />
+    </City>
+    <City name="闵行区">
+      <County name="闵行区" code="101020200" />
+    </City>
+    <City name="宝山区">
+      <County name="宝山区" code="101020300" />
+    </City>
+    <City name="嘉定区">
+      <County name="嘉定区" code="101020500" />
+    </City>
+    <City name="金山区">
+      <County name="金山区" code="101020700" />
+    </City>
+    <City name="青浦区">
+      <County name="青浦区" code="101020800" />
+    </City>
+    <City name="松江区">
+      <County name="松江区" code="101020900" />
+    </City>
+    <City name="奉贤区">
+      <County name="奉贤区" code="101021000" />
+    </City>
+    <City name="崇明县">
+      <County name="崇明县" code="101021100" />
+    </City>
+    <City name="徐家汇区">
+      <County name="徐家汇区" code="101021200" />
+    </City>
+    <City name="浦东区">
+      <County name="浦东区" code="101021300" />
+    </City>
+    <City name="浦东南汇">
+      <County name="浦东南汇" code="101020600" />
+    </City>
+  </Province>
+  <Province name="天津市">
+    <City name="天津市">
+      <County name="天津市" code="101030100" />
+    </City>
+    <City name="武清区">
+      <County name="武清区" code="101030200" />
+    </City>
+    <City name="宝坻区">
+      <County name="宝坻区" code="101030300" />
+    </City>
+    <City name="东丽区">
+      <County name="东丽区" code="101030400" />
+    </City>
+    <City name="西青区">
+      <County name="西青区" code="101030500" />
+    </City>
+    <City name="北辰区">
+      <County name="北辰区" code="101030600" />
+    </City>
+    <City name="宁河县">
+      <County name="宁河县" code="101030700" />
+    </City>
+    <City name="汉沽区">
+      <County name="汉沽区" code="101030800" />
+    </City>
+    <City name="静海县">
+      <County name="静海县" code="101030900" />
+    </City>
+    <City name="津南区">
+      <County name="津南区" code="101031000" />
+    </City>
+    <City name="塘沽区">
+      <County name="塘沽区" code="101031100" />
+    </City>
+    <City name="大港区">
+      <County name="大港区" code="101031200" />
+    </City>
+    <City name="蓟县">
+      <County name="蓟县" code="101031400" />
+    </City>
+  </Province>
+  <Province name="重庆市">
+    <City name="重庆市">
+      <County name="重庆市" code="101040100" />
+    </City>
+    <City name="永川区">
+      <County name="永川区" code="101040200" />
+    </City>
+    <City name="合川区">
+      <County name="合川区" code="101040300" />
+    </City>
+    <City name="南川区">
+      <County name="南川区" code="101040400" />
+    </City>
+    <City name="江津区">
+      <County name="江津区" code="101040500" />
+    </City>
+    <City name="万盛区">
+      <County name="万盛区" code="101040600" />
+    </City>
+    <City name="渝北区">
+      <County name="渝北区" code="101040700" />
+    </City>
+    <City name="北碚区">
+      <County name="北碚区" code="101040800" />
+    </City>
+    <City name="巴南区">
+      <County name="巴南区" code="101040900" />
+    </City>
+    <City name="长寿区">
+      <County name="长寿区" code="101041000" />
+    </City>
+    <City name="黔江区">
+      <County name="黔江区" code="101041100" />
+    </City>
+    <City name="万州区">
+      <County name="万州区" code="101041300" />
+    </City>
+    <City name="涪陵区">
+      <County name="涪陵区" code="101041400" />
+    </City>
+    <City name="开县">
+      <County name="开县" code="101041500" />
+    </City>
+    <City name="城口县">
+      <County name="城口县" code="101041600" />
+    </City>
+    <City name="云阳县">
+      <County name="云阳县" code="101041700" />
+    </City>
+    <City name="巫溪县">
+      <County name="巫溪县" code="101041800" />
+    </City>
+    <City name="奉节县">
+      <County name="奉节县" code="101041900" />
+    </City>
+    <City name="巫山县">
+      <County name="巫山县" code="101042000" />
+    </City>
+    <City name="潼南县">
+      <County name="潼南县" code="101042100" />
+    </City>
+    <City name="垫江县">
+      <County name="垫江县" code="101042200" />
+    </City>
+    <City name="梁平县">
+      <County name="梁平县" code="101042300" />
+    </City>
+    <City name="忠县">
+      <County name="忠县" code="101042400" />
+    </City>
+    <City name="石柱县">
+      <County name="石柱县" code="101042500" />
+    </City>
+    <City name="大足县">
+      <County name="大足县" code="101042600" />
+    </City>
+    <City name="荣昌县">
+      <County name="荣昌县" code="101042700" />
+    </City>
+    <City name="铜梁县">
+      <County name="铜梁县" code="101042800" />
+    </City>
+    <City name="璧山县">
+      <County name="璧山县" code="101042900" />
+    </City>
+    <City name="丰都县">
+      <County name="丰都县" code="101043000" />
+    </City>
+    <City name="武隆县">
+      <County name="武隆县" code="101043100" />
+    </City>
+    <City name="彭水县">
+      <County name="彭水县" code="101043200" />
+    </City>
+    <City name="綦江县">
+      <County name="綦江县" code="101043300" />
+    </City>
+    <City name="酉阳县">
+      <County name="酉阳县" code="101043400" />
+    </City>
+    <City name="秀山县">
+      <County name="秀山县" code="101043600" />
+    </City>
+  </Province>
+  <Province name="黑龙江省">
+    <City name="哈尔滨市">
+      <County name="哈尔滨市" code="101050101" />
+      <County name="双城市" code="101050102" />
+      <County name="呼兰县" code="101050103" />
+      <County name="阿城区" code="101050104" />
+      <County name="宾县" code="101050105" />
+      <County name="依兰县" code="101050106" />
+      <County name="巴彦县" code="101050107" />
+      <County name="通河县" code="101050108" />
+      <County name="方正县" code="101050109" />
+      <County name="延寿县" code="101050110" />
+      <County name="尚志市" code="101050111" />
+      <County name="五常市" code="101050112" />
+      <County name="木兰县" code="101050113" />
+    </City>
+    <City name="齐齐哈尔市">
+      <County name="齐齐哈尔市" code="101050201" />
+      <County name="讷河市" code="101050202" />
+      <County name="龙江县" code="101050203" />
+      <County name="甘南县" code="101050204" />
+      <County name="富裕县" code="101050205" />
+      <County name="依安县" code="101050206" />
+      <County name="拜泉县" code="101050207" />
+      <County name="克山县" code="101050208" />
+      <County name="克东县" code="101050209" />
+      <County name="泰来县" code="101050210" />
+    </City>
+    <City name="牡丹江市">
+      <County name="牡丹江市" code="101050301" />
+      <County name="海林市" code="101050302" />
+      <County name="穆棱市" code="101050303" />
+      <County name="林口县" code="101050304" />
+      <County name="绥芬河市" code="101050305" />
+      <County name="宁安市" code="101050306" />
+      <County name="东宁县" code="101050307" />
+    </City>
+    <City name="佳木斯市">
+      <County name="佳木斯市" code="101050401" />
+      <County name="汤原县" code="101050402" />
+      <County name="抚远县" code="101050403" />
+      <County name="桦川县" code="101050404" />
+      <County name="桦南县" code="101050405" />
+      <County name="同江市" code="101050406" />
+      <County name="富锦市" code="101050407" />
+    </City>
+    <City name="绥化市">
+      <County name="绥化市" code="101050501" />
+      <County name="肇东市" code="101050502" />
+      <County name="安达市" code="101050503" />
+      <County name="海伦市" code="101050504" />
+      <County name="明水县" code="101050505" />
+      <County name="望奎县" code="101050506" />
+      <County name="兰西县" code="101050507" />
+      <County name="青冈县" code="101050508" />
+      <County name="庆安县" code="101050509" />
+      <County name="绥棱县" code="101050510" />
+    </City>
+    <City name="黑河市">
+      <County name="黑河市" code="101050601" />
+      <County name="嫩江县" code="101050602" />
+      <County name="孙吴县" code="101050603" />
+      <County name="逊克县" code="101050604" />
+      <County name="五大连池市" code="101050605" />
+      <County name="北安市" code="101050606" />
+    </City>
+    <City name="大兴安岭">
+      <County name="大兴安岭" code="101050701" />
+      <County name="塔河县" code="101050702" />
+      <County name="漠河县" code="101050703" />
+      <County name="呼玛" code="101050704" />
+      <County name="呼中" code="101050705" />
+      <County name="新林" code="101050706" />
+      <County name="加格达奇" code="101050708" />
+    </City>
+    <City name="伊春市">
+      <County name="伊春市" code="101050801" />
+      <County name="乌伊岭区" code="101050802" />
+      <County name="五营区" code="101050803" />
+      <County name="铁力市" code="101050804" />
+      <County name="嘉荫县" code="101050805" />
+    </City>
+    <City name="大庆市">
+      <County name="大庆市" code="101050901" />
+      <County name="林甸县" code="101050902" />
+      <County name="肇州县" code="101050903" />
+      <County name="肇源县" code="101050904" />
+      <County name="杜尔伯特县" code="101050905" />
+    </City>
+    <City name="七台河市">
+      <County name="七台河市" code="101051002" />
+      <County name="勃利县" code="101051003" />
+    </City>
+    <City name="鸡西市">
+      <County name="鸡西市" code="101051101" />
+      <County name="虎林市" code="101051102" />
+      <County name="密山市" code="101051103" />
+      <County name="鸡东县" code="101051104" />
+    </City>
+    <City name="鹤岗市">
+      <County name="鹤岗市" code="101051201" />
+      <County name="绥滨县" code="101051202" />
+      <County name="萝北县" code="101051203" />
+    </City>
+    <City name="双鸭山市">
+      <County name="双鸭山市" code="101051301" />
+      <County name="集贤县" code="101051302" />
+      <County name="宝清县" code="101051303" />
+      <County name="饶河县" code="101051304" />
+      <County name="友谊县" code="101051305" />
+    </City>
+  </Province>
+  <Province name="吉林省">
+    <City name="长春市">
+      <County name="长春市" code="101060101" />
+      <County name="农安县" code="101060102" />
+      <County name="德惠市" code="101060103" />
+      <County name="九台市" code="101060104" />
+      <County name="榆树市" code="101060105" />
+      <County name="双阳区" code="101060106" />
+    </City>
+    <City name="吉林市">
+      <County name="吉林市" code="101060201" />
+      <County name="舒兰市" code="101060202" />
+      <County name="永吉县" code="101060203" />
+      <County name="蛟河市" code="101060204" />
+      <County name="磐石市" code="101060205" />
+      <County name="桦甸市" code="101060206" />
+    </City>
+    <City name="延吉市">
+      <County name="延吉市" code="101060301" />
+      <County name="敦化市" code="101060302" />
+      <County name="安图县" code="101060303" />
+      <County name="汪清县" code="101060304" />
+      <County name="和龙市" code="101060305" />
+      <County name="龙井市" code="101060307" />
+      <County name="珲春市" code="101060308" />
+      <County name="图们市" code="101060309" />
+    </City>
+    <City name="四平市">
+      <County name="四平市" code="101060401" />
+      <County name="双辽市" code="101060402" />
+      <County name="梨树县" code="101060403" />
+      <County name="公主岭市" code="101060404" />
+      <County name="伊通县" code="101060405" />
+    </City>
+    <City name="通化市">
+      <County name="通化市" code="101060501" />
+      <County name="梅河口市" code="101060502" />
+      <County name="柳河县" code="101060503" />
+      <County name="辉南县" code="101060504" />
+      <County name="集安市" code="101060505" />
+      <County name="通化县" code="101060506" />
+    </City>
+    <City name="白城市">
+      <County name="白城市" code="101060601" />
+      <County name="洮南市" code="101060602" />
+      <County name="大安市" code="101060603" />
+      <County name="镇赉县" code="101060604" />
+      <County name="通榆县" code="101060605" />
+    </City>
+    <City name="辽源市">
+      <County name="辽源市" code="101060701" />
+      <County name="东丰县" code="101060702" />
+      <County name="东辽县" code="101060703" />
+    </City>
+    <City name="松原市">
+      <County name="松原市" code="101060801" />
+      <County name="乾安县" code="101060802" />
+      <County name="前郭县" code="101060803" />
+      <County name="长岭县" code="101060804" />
+      <County name="扶余县" code="101060805" />
+    </City>
+    <City name="白山市">
+      <County name="白山市" code="101060901" />
+      <County name="靖宇县" code="101060902" />
+      <County name="临江市" code="101060903" />
+      <County name="东岗市" code="101060904" />
+      <County name="长白县" code="101060905" />
+      <County name="抚松县" code="101060906" />
+      <County name="江源区" code="101060907" />
+    </City>
+  </Province>
+  <Province name="辽宁省">
+    <City name="沈阳市">
+      <County name="沈阳市" code="101070101" />
+      <County name="辽中县" code="101070103" />
+      <County name="康平县" code="101070104" />
+      <County name="法库县" code="101070105" />
+      <County name="新民市" code="101070106" />
+    </City>
+    <City name="大连市">
+      <County name="大连市" code="101070201" />
+      <County name="瓦房店市" code="101070202" />
+      <County name="金州区" code="101070203" />
+      <County name="普兰店市" code="101070204" />
+      <County name="旅顺市" code="101070205" />
+      <County name="长海县" code="101070206" />
+      <County name="庄河市" code="101070207" />
+    </City>
+    <City name="鞍山市">
+      <County name="鞍山市" code="101070301" />
+      <County name="台安县" code="101070302" />
+      <County name="岫岩县" code="101070303" />
+      <County name="海城市" code="101070304" />
+    </City>
+    <City name="抚顺市">
+      <County name="抚顺市" code="101070401" />
+      <County name="新宾县" code="101070402" />
+      <County name="清原县" code="101070403" />
+      <County name="章党县" code="101070404" />
+    </City>
+    <City name="本溪市">
+      <County name="本溪市" code="101070501" />
+      <County name="本溪县" code="101070502" />
+      <County name="桓仁县" code="101070504" />
+    </City>
+    <City name="丹东市">
+      <County name="丹东市" code="101070601" />
+      <County name="凤城市" code="101070602" />
+      <County name="宽甸县" code="101070603" />
+      <County name="东港市" code="101070604" />
+    </City>
+    <City name="锦州市">
+      <County name="锦州市" code="101070701" />
+      <County name="凌海市" code="101070702" />
+      <County name="义县" code="101070704" />
+      <County name="黑山县" code="101070705" />
+      <County name="北镇市" code="101070706" />
+    </City>
+    <City name="营口市">
+      <County name="营口市" code="101070801" />
+      <County name="大石桥市" code="101070802" />
+      <County name="盖州市" code="101070803" />
+    </City>
+    <City name="阜新市">
+      <County name="阜新市" code="101070901" />
+      <County name="彰武县" code="101070902" />
+    </City>
+    <City name="辽阳市">
+      <County name="辽阳市" code="101071001" />
+      <County name="辽阳县" code="101071002" />
+      <County name="灯塔市" code="101071003" />
+      <County name="弓长岭区" code="101071004" />
+    </City>
+    <City name="铁岭市">
+      <County name="铁岭市" code="101071101" />
+      <County name="开原市" code="101071102" />
+      <County name="昌图县" code="101071103" />
+      <County name="西丰县" code="101071104" />
+      <County name="调兵山市" code="101071105" />
+    </City>
+    <City name="朝阳市">
+      <County name="朝阳市" code="101071201" />
+      <County name="凌源市" code="101071203" />
+      <County name="喀左" code="101071204" />
+      <County name="北票市" code="101071205" />
+      <County name="建平县" code="101071207" />
+    </City>
+    <City name="盘锦市">
+      <County name="盘锦市" code="101071301" />
+      <County name="大洼县" code="101071302" />
+      <County name="盘山县" code="101071303" />
+    </City>
+    <City name="葫芦岛市">
+      <County name="葫芦岛市" code="101071401" />
+      <County name="建昌县" code="101071402" />
+      <County name="绥中县" code="101071403" />
+      <County name="兴城市" code="101071404" />
+    </City>
+  </Province>
+  <Province name="内蒙古自治区">
+    <City name="呼和浩特市">
+      <County name="呼和浩特市" code="101080101" />
+      <County name="土左旗" code="101080102" />
+      <County name="托克托县" code="101080103" />
+      <County name="和林格尔县" code="101080104" />
+      <County name="清水河县" code="101080105" />
+      <County name="呼市郊区" code="101080106" />
+      <County name="武川县" code="101080107" />
+    </City>
+    <City name="包头市">
+      <County name="包头市" code="101080201" />
+      <County name="白云鄂博" code="101080202" />
+      <County name="满都拉" code="101080203" />
+      <County name="土右旗" code="101080204" />
+      <County name="固阳县" code="101080205" />
+      <County name="达茂旗" code="101080206" />
+      <County name="希拉穆仁" code="101080207" />
+    </City>
+    <City name="乌海">
+      <County name="乌海" code="101080301" />
+    </City>
+    <City name="集宁区">
+      <County name="集宁区" code="101080401" />
+      <County name="卓资县" code="101080402" />
+      <County name="化德县" code="101080403" />
+      <County name="商都县" code="101080404" />
+      <County name="兴和县" code="101080406" />
+      <County name="凉城县" code="101080407" />
+      <County name="察右前旗" code="101080408" />
+      <County name="察右中旗" code="101080409" />
+      <County name="察右后旗" code="101080410" />
+      <County name="四子王旗" code="101080411" />
+      <County name="丰镇市" code="101080412" />
+    </City>
+    <City name="通辽市">
+      <County name="通辽市" code="101080501" />
+      <County name="舍伯吐" code="101080502" />
+      <County name="科左中旗" code="101080503" />
+      <County name="科左后旗" code="101080504" />
+      <County name="青龙山" code="101080505" />
+      <County name="开鲁县" code="101080506" />
+      <County name="库伦旗" code="101080507" />
+      <County name="奈曼旗" code="101080508" />
+      <County name="扎鲁特旗" code="101080509" />
+      <County name="巴雅尔吐胡硕" code="101080511" />
+    </City>
+    <City name="霍林郭勒市">
+      <County name="霍林郭勒市" code="101081108" />
+    </City>
+    <City name="赤峰市">
+      <County name="赤峰市" code="101080601" />
+      <County name="阿鲁旗" code="101080603" />
+      <County name="浩尔吐" code="101080604" />
+      <County name="巴林左旗" code="101080605" />
+      <County name="巴林右旗" code="101080606" />
+      <County name="林西县" code="101080607" />
+      <County name="克什克腾旗" code="101080608" />
+      <County name="翁牛特旗" code="101080609" />
+      <County name="岗子" code="101080610" />
+      <County name="喀喇沁旗" code="101080611" />
+      <County name="八里罕" code="101080612" />
+      <County name="宁城县" code="101080613" />
+      <County name="敖汉旗" code="101080614" />
+      <County name="宝国吐" code="101080615" />
+    </City>
+    <City name="鄂尔多斯市">
+      <County name="鄂尔多斯市" code="101080701" />
+      <County name="达拉特旗" code="101080703" />
+      <County name="准格尔旗" code="101080704" />
+      <County name="鄂前旗" code="101080705" />
+      <County name="河南旗" code="101080706" />
+      <County name="伊克乌素" code="101080707" />
+      <County name="鄂托克旗" code="101080708" />
+      <County name="杭锦旗" code="101080709" />
+      <County name="乌审旗" code="101080710" />
+      <County name="伊金霍洛旗" code="101080711" />
+      <County name="乌审召" code="101080712" />
+      <County name="东胜区" code="101080713" />
+    </City>
+    <City name="临河区">
+      <County name="临河区" code="101080801" />
+      <County name="五原县" code="101080802" />
+      <County name="磴口县" code="101080803" />
+      <County name="乌前旗" code="101080804" />
+      <County name="大佘太" code="101080805" />
+      <County name="乌中旗" code="101080806" />
+      <County name="乌后旗" code="101080807" />
+      <County name="海力素" code="101080808" />
+      <County name="那仁宝力格" code="101080809" />
+      <County name="杭锦后旗" code="101080810" />
+    </City>
+    <City name="锡林浩特市">
+      <County name="锡林浩特市" code="101080901" />
+      <County name="二连浩特市" code="101080903" />
+      <County name="阿巴嘎旗" code="101080904" />
+      <County name="苏左旗" code="101080906" />
+      <County name="苏右旗" code="101080907" />
+      <County name="朱日和" code="101080908" />
+      <County name="东乌旗" code="101080909" />
+      <County name="西乌旗" code="101080910" />
+      <County name="太仆寺旗" code="101080911" />
+      <County name="镶黄旗" code="101080912" />
+      <County name="正镶白旗" code="101080913" />
+      <County name="正蓝旗" code="101080914" />
+      <County name="多伦县" code="101080915" />
+      <County name="博克图" code="101080916" />
+      <County name="乌拉盖" code="101080917" />
+    </City>
+    <City name="海拉尔">
+      <County name="海拉尔" code="101081001" />
+      <County name="小二沟" code="101081002" />
+      <County name="阿荣旗" code="101081003" />
+      <County name="莫力达瓦旗" code="101081004" />
+      <County name="鄂伦春旗" code="101081005" />
+      <County name="鄂温克旗" code="101081006" />
+      <County name="陈旗" code="101081007" />
+      <County name="新左旗" code="101081008" />
+      <County name="新右旗" code="101081009" />
+      <County name="满洲里市" code="101081010" />
+      <County name="牙克石市" code="101081011" />
+      <County name="扎兰屯市" code="101081012" />
+      <County name="额尔古纳市" code="101081014" />
+      <County name="根河市" code="101081015" />
+      <County name="图里河" code="101081016" />
+    </City>
+    <City name="乌兰浩特市">
+      <County name="乌兰浩特市" code="101081101" />
+      <County name="阿尔山市" code="101081102" />
+      <County name="科右中旗" code="101081103" />
+      <County name="胡尔勒" code="101081104" />
+      <County name="扎赉特旗" code="101081105" />
+      <County name="索伦" code="101081106" />
+      <County name="突泉县" code="101081107" />
+      <County name="科右前旗" code="101081109" />
+    </City>
+    <City name="高力板">
+      <County name="高力板" code="101080510" />
+    </City>
+    <City name="阿左旗">
+      <County name="阿左旗" code="101081201" />
+      <County name="阿右旗" code="101081202" />
+      <County name="额济纳旗" code="101081203" />
+      <County name="拐子湖" code="101081204" />
+      <County name="吉兰太" code="101081205" />
+      <County name="锡林高勒" code="101081206" />
+      <County name="头道湖" code="101081207" />
+      <County name="中泉子" code="101081208" />
+      <County name="诺尔贡" code="101081209" />
+      <County name="雅布赖" code="101081210" />
+      <County name="乌斯泰" code="101081211" />
+      <County name="孪井滩" code="101081212" />
+    </City>
+  </Province>
+  <Province name="河北省">
+    <City name="石家庄市">
+      <County name="石家庄市" code="101090101" />
+      <County name="井陉区" code="101090102" />
+      <County name="正定县" code="101090103" />
+      <County name="栾城县" code="101090104" />
+      <County name="行唐县" code="101090105" />
+      <County name="灵寿县" code="101090106" />
+      <County name="高邑县" code="101090107" />
+      <County name="深泽县" code="101090108" />
+      <County name="赞皇县" code="101090109" />
+      <County name="无极县" code="101090110" />
+      <County name="平山县" code="101090111" />
+      <County name="元氏县" code="101090112" />
+      <County name="赵县" code="101090113" />
+      <County name="辛集市" code="101090114" />
+      <County name="藁城市" code="101090115" />
+      <County name="晋州市" code="101090116" />
+      <County name="新乐市" code="101090117" />
+      <County name="鹿泉市" code="101090118" />
+    </City>
+    <City name="保定市">
+      <County name="保定市" code="101090201" />
+      <County name="满城县" code="101090202" />
+      <County name="阜平县" code="101090203" />
+      <County name="徐水县" code="101090204" />
+      <County name="唐县" code="101090205" />
+      <County name="高阳县" code="101090206" />
+      <County name="容城县" code="101090207" />
+      <County name="涞源县" code="101090209" />
+      <County name="望都县" code="101090210" />
+      <County name="安新县" code="101090211" />
+      <County name="易县" code="101090212" />
+      <County name="曲阳县" code="101090214" />
+      <County name="蠡县" code="101090215" />
+      <County name="顺平县" code="101090216" />
+      <County name="雄县" code="101090217" />
+      <County name="涿州市" code="101090218" />
+      <County name="定州市" code="101090219" />
+      <County name="安国市" code="101090220" />
+      <County name="高碑店市" code="101090221" />
+      <County name="涞水县" code="101090222" />
+      <County name="定兴县" code="101090223" />
+      <County name="清苑县" code="101090224" />
+      <County name="博野县" code="101090225" />
+    </City>
+    <City name="张家口市">
+      <County name="张家口市" code="101090301" />
+      <County name="宣化区" code="101090302" />
+      <County name="张北县" code="101090303" />
+      <County name="康保县" code="101090304" />
+      <County name="沽源县" code="101090305" />
+      <County name="尚义县" code="101090306" />
+      <County name="蔚县" code="101090307" />
+      <County name="阳原县" code="101090308" />
+      <County name="怀安县" code="101090309" />
+      <County name="万全县" code="101090310" />
+      <County name="怀来县" code="101090311" />
+      <County name="涿鹿县" code="101090312" />
+      <County name="赤城县" code="101090313" />
+      <County name="崇礼县" code="101090314" />
+    </City>
+    <City name="承德市">
+      <County name="承德市" code="101090402" />
+      <County name="承德县" code="101090403" />
+      <County name="兴隆县" code="101090404" />
+      <County name="平泉县" code="101090405" />
+      <County name="滦平县" code="101090406" />
+      <County name="隆化县" code="101090407" />
+      <County name="丰宁县" code="101090408" />
+      <County name="宽城县" code="101090409" />
+      <County name="围场县" code="101090410" />
+    </City>
+    <City name="唐山市">
+      <County name="唐山市" code="101090501" />
+      <County name="丰南区" code="101090502" />
+      <County name="丰润区" code="101090503" />
+      <County name="滦县" code="101090504" />
+      <County name="滦南县" code="101090505" />
+      <County name="乐亭县" code="101090506" />
+      <County name="迁西县" code="101090507" />
+      <County name="玉田县" code="101090508" />
+      <County name="唐海县" code="101090509" />
+      <County name="遵化市" code="101090510" />
+      <County name="迁安市" code="101090511" />
+      <County name="曹妃甸" code="101090512" />
+    </City>
+    <City name="廊坊市">
+      <County name="廊坊市" code="101090601" />
+      <County name="固安县" code="101090602" />
+      <County name="永清县" code="101090603" />
+      <County name="香河县" code="101090604" />
+      <County name="大城县" code="101090605" />
+      <County name="文安县" code="101090606" />
+      <County name="大厂县" code="101090607" />
+      <County name="霸州市" code="101090608" />
+      <County name="三河市" code="101090609" />
+    </City>
+    <City name="沧州市">
+      <County name="沧州市" code="101090701" />
+      <County name="青县" code="101090702" />
+      <County name="东光县" code="101090703" />
+      <County name="海兴县" code="101090704" />
+      <County name="盐山县" code="101090705" />
+      <County name="肃宁县" code="101090706" />
+      <County name="南皮县" code="101090707" />
+      <County name="吴桥县" code="101090708" />
+      <County name="献县" code="101090709" />
+      <County name="孟村县" code="101090710" />
+      <County name="泊头市" code="101090711" />
+      <County name="任丘市" code="101090712" />
+      <County name="黄骅市" code="101090713" />
+      <County name="河间市" code="101090714" />
+      <County name="沧县" code="101090716" />
+    </City>
+    <City name="衡水市">
+      <County name="衡水市" code="101090801" />
+      <County name="枣强县" code="101090802" />
+      <County name="武邑县" code="101090803" />
+      <County name="武强县" code="101090804" />
+      <County name="饶阳县" code="101090805" />
+      <County name="安平市" code="101090806" />
+      <County name="故城县" code="101090807" />
+      <County name="景县" code="101090808" />
+      <County name="阜城县" code="101090809" />
+      <County name="冀州市" code="101090810" />
+      <County name="深州市" code="101090811" />
+    </City>
+    <City name="邢台市">
+      <County name="邢台市" code="101090901" />
+      <County name="临城县" code="101090902" />
+      <County name="内丘县" code="101090904" />
+      <County name="柏乡县" code="101090905" />
+      <County name="隆尧县" code="101090906" />
+      <County name="南和县" code="101090907" />
+      <County name="宁晋县" code="101090908" />
+      <County name="巨鹿县" code="101090909" />
+      <County name="新河县" code="101090910" />
+      <County name="广宗县" code="101090911" />
+      <County name="平乡县" code="101090912" />
+      <County name="威县" code="101090913" />
+      <County name="清河县" code="101090914" />
+      <County name="临西县" code="101090915" />
+      <County name="南宫市" code="101090916" />
+      <County name="沙河市" code="101090917" />
+      <County name="任县" code="101090918" />
+    </City>
+    <City name="邯郸市">
+      <County name="邯郸市" code="101091001" />
+      <County name="峰峰矿区" code="101091002" />
+      <County name="临漳县" code="101091003" />
+      <County name="成安县" code="101091004" />
+      <County name="大名县" code="101091005" />
+      <County name="涉县" code="101091006" />
+      <County name="磁县" code="101091007" />
+      <County name="肥乡县" code="101091008" />
+      <County name="永年县" code="101091009" />
+      <County name="邱县" code="101091010" />
+      <County name="鸡泽县" code="101091011" />
+      <County name="广平县" code="101091012" />
+      <County name="馆陶县" code="101091013" />
+      <County name="魏县" code="101091014" />
+      <County name="曲周县" code="101091015" />
+      <County name="武安市" code="101091016" />
+    </City>
+    <City name="秦皇岛市">
+      <County name="秦皇岛市" code="101091101" />
+      <County name="青龙县" code="101091102" />
+      <County name="昌黎县" code="101091103" />
+      <County name="抚宁县" code="101091104" />
+      <County name="卢龙县" code="101091105" />
+      <County name="北戴河" code="101091106" />
+    </City>
+  </Province>
+  <Province name="山西省">
+    <City name="太原市">
+      <County name="太原市" code="101100101" />
+      <County name="清徐县" code="101100102" />
+      <County name="阳曲县" code="101100103" />
+      <County name="娄烦县" code="101100104" />
+      <County name="古交市" code="101100105" />
+      <County name="尖草坪区" code="101100106" />
+      <County name="小店区" code="101100107" />
+    </City>
+    <City name="大同市">
+      <County name="大同市" code="101100201" />
+      <County name="阳高县" code="101100202" />
+      <County name="大同县" code="101100203" />
+      <County name="天镇县" code="101100204" />
+      <County name="广灵县" code="101100205" />
+      <County name="灵丘县" code="101100206" />
+      <County name="浑源县" code="101100207" />
+      <County name="左云县" code="101100208" />
+    </City>
+    <City name="阳泉市">
+      <County name="阳泉市" code="101100301" />
+      <County name="盂县" code="101100302" />
+      <County name="平定县" code="101100303" />
+    </City>
+    <City name="晋中市">
+      <County name="晋中市" code="101100401" />
+      <County name="榆次区" code="101100402" />
+      <County name="榆社县" code="101100403" />
+      <County name="左权县" code="101100404" />
+      <County name="和顺县" code="101100405" />
+      <County name="昔阳县" code="101100406" />
+      <County name="寿阳县" code="101100407" />
+      <County name="太谷县" code="101100408" />
+      <County name="祁县" code="101100409" />
+      <County name="平遥县" code="101100410" />
+      <County name="灵石县" code="101100411" />
+      <County name="介休市" code="101100412" />
+    </City>
+    <City name="长治市">
+      <County name="长治市" code="101100501" />
+      <County name="黎城县" code="101100502" />
+      <County name="屯留县" code="101100503" />
+      <County name="潞城市" code="101100504" />
+      <County name="襄垣县" code="101100505" />
+      <County name="平顺县" code="101100506" />
+      <County name="武乡县" code="101100507" />
+      <County name="沁县" code="101100508" />
+      <County name="长子县" code="101100509" />
+      <County name="沁源县" code="101100510" />
+      <County name="壶关县" code="101100511" />
+    </City>
+    <City name="晋城市">
+      <County name="晋城市" code="101100601" />
+      <County name="沁水县" code="101100602" />
+      <County name="阳城县" code="101100603" />
+      <County name="陵川县" code="101100604" />
+      <County name="高平市" code="101100605" />
+      <County name="泽州县" code="101100606" />
+    </City>
+    <City name="临汾市">
+      <County name="临汾市" code="101100701" />
+      <County name="曲沃县" code="101100702" />
+      <County name="永和县" code="101100703" />
+      <County name="隰县" code="101100704" />
+      <County name="大宁县" code="101100705" />
+      <County name="吉县" code="101100706" />
+      <County name="襄汾县" code="101100707" />
+      <County name="蒲县" code="101100708" />
+      <County name="汾西县" code="101100709" />
+      <County name="洪洞县" code="101100710" />
+      <County name="霍州市" code="101100711" />
+      <County name="乡宁县" code="101100712" />
+      <County name="翼城县" code="101100713" />
+      <County name="侯马市" code="101100714" />
+      <County name="浮山县" code="101100715" />
+      <County name="安泽县" code="101100716" />
+      <County name="古县" code="101100717" />
+    </City>
+    <City name="运城市">
+      <County name="运城市" code="101100801" />
+      <County name="临猗县" code="101100802" />
+      <County name="稷山县" code="101100803" />
+      <County name="万荣县" code="101100804" />
+      <County name="河津市" code="101100805" />
+      <County name="新绛县" code="101100806" />
+      <County name="绛县" code="101100807" />
+      <County name="闻喜县" code="101100808" />
+      <County name="垣曲县" code="101100809" />
+      <County name="永济市" code="101100810" />
+      <County name="芮城县" code="101100811" />
+      <County name="夏县" code="101100812" />
+      <County name="平陆县" code="101100813" />
+    </City>
+    <City name="朔州市">
+      <County name="朔州市" code="101100901" />
+      <County name="平鲁区" code="101100902" />
+      <County name="山阴县" code="101100903" />
+      <County name="右玉县" code="101100904" />
+      <County name="应县" code="101100905" />
+      <County name="怀仁县" code="101100906" />
+    </City>
+    <City name="忻州市">
+      <County name="忻州市" code="101101001" />
+      <County name="定襄县" code="101101002" />
+      <County name="五台县" code="101101003" />
+      <County name="河曲县" code="101101004" />
+      <County name="偏关县" code="101101005" />
+      <County name="神池县" code="101101006" />
+      <County name="宁武县" code="101101007" />
+      <County name="代县" code="101101008" />
+      <County name="繁峙县" code="101101009" />
+      <County name="五台山" code="101101010" />
+      <County name="保德县" code="101101011" />
+      <County name="静乐县" code="101101012" />
+      <County name="岢岚县" code="101101013" />
+      <County name="五寨县" code="101101014" />
+      <County name="原平市" code="101101015" />
+    </City>
+    <City name="吕梁市">
+      <County name="吕梁市" code="101101100" />
+      <County name="离石区" code="101101101" />
+      <County name="临县" code="101101102" />
+      <County name="兴县" code="101101103" />
+      <County name="岚县" code="101101104" />
+      <County name="柳林县" code="101101105" />
+      <County name="石楼县" code="101101106" />
+      <County name="方山县" code="101101107" />
+      <County name="交口县" code="101101108" />
+      <County name="中阳县" code="101101109" />
+      <County name="孝义市" code="101101110" />
+      <County name="汾阳市" code="101101111" />
+      <County name="文水县" code="101101112" />
+      <County name="交城县" code="101101113" />
+    </City>
+  </Province>
+  <Province name="陕西省">
+    <City name="西安市">
+      <County name="西安市" code="101110101" />
+      <County name="长安区" code="101110102" />
+      <County name="临潼区" code="101110103" />
+      <County name="蓝田县" code="101110104" />
+      <County name="周至县" code="101110105" />
+      <County name="户县" code="101110106" />
+      <County name="高陵县" code="101110107" />
+    </City>
+    <City name="咸阳市">
+      <County name="咸阳市" code="101110200" />
+      <County name="三原县" code="101110201" />
+      <County name="礼泉县" code="101110202" />
+      <County name="永寿县" code="101110203" />
+      <County name="淳化县" code="101110204" />
+      <County name="泾阳县" code="101110205" />
+      <County name="武功县" code="101110206" />
+      <County name="乾县" code="101110207" />
+      <County name="彬县" code="101110208" />
+      <County name="长武县" code="101110209" />
+      <County name="旬邑县" code="101110210" />
+      <County name="兴平市" code="101110211" />
+    </City>
+    <City name="延安市">
+      <County name="延安市" code="101110300" />
+      <County name="延长县" code="101110301" />
+      <County name="延川县" code="101110302" />
+      <County name="子长县" code="101110303" />
+      <County name="宜川县" code="101110304" />
+      <County name="富县" code="101110305" />
+      <County name="志丹县" code="101110306" />
+      <County name="安塞县" code="101110307" />
+      <County name="甘泉县" code="101110308" />
+      <County name="洛川县" code="101110309" />
+      <County name="黄陵县" code="101110310" />
+      <County name="黄龙县" code="101110311" />
+      <County name="吴起县" code="101110312" />
+    </City>
+    <City name="榆林市">
+      <County name="榆林市" code="101110401" />
+      <County name="府谷县" code="101110402" />
+      <County name="神木县" code="101110403" />
+      <County name="佳县" code="101110404" />
+      <County name="定边县" code="101110405" />
+      <County name="靖边县" code="101110406" />
+      <County name="横山县" code="101110407" />
+      <County name="米脂县" code="101110408" />
+      <County name="子洲县" code="101110409" />
+      <County name="绥德县" code="101110410" />
+      <County name="吴堡县" code="101110411" />
+      <County name="清涧县" code="101110412" />
+      <County name="榆阳区" code="101110413" />
+    </City>
+    <City name="渭南市">
+      <County name="渭南市" code="101110501" />
+      <County name="华县" code="101110502" />
+      <County name="潼关县" code="101110503" />
+      <County name="大荔县" code="101110504" />
+      <County name="白水县" code="101110505" />
+      <County name="富平县" code="101110506" />
+      <County name="蒲城县" code="101110507" />
+      <County name="澄城县" code="101110508" />
+      <County name="合阳县" code="101110509" />
+      <County name="韩城市" code="101110510" />
+      <County name="华阴市" code="101110511" />
+    </City>
+    <City name="商洛市">
+      <County name="商洛市" code="101110601" />
+      <County name="洛南县" code="101110602" />
+      <County name="柞水县" code="101110603" />
+      <County name="商州" code="101110604" />
+      <County name="镇安县" code="101110605" />
+      <County name="丹凤县" code="101110606" />
+      <County name="商南县" code="101110607" />
+      <County name="山阳县" code="101110608" />
+    </City>
+    <City name="安康市">
+      <County name="安康市" code="101110701" />
+      <County name="紫阳县" code="101110702" />
+      <County name="石泉县" code="101110703" />
+      <County name="汉阴县" code="101110704" />
+      <County name="旬阳县" code="101110705" />
+      <County name="岚皋县" code="101110706" />
+      <County name="平利县" code="101110707" />
+      <County name="白河县" code="101110708" />
+      <County name="镇坪县" code="101110709" />
+      <County name="宁陕县" code="101110710" />
+    </City>
+    <City name="汉中市">
+      <County name="汉中市" code="101110801" />
+      <County name="略阳县" code="101110802" />
+      <County name="勉县" code="101110803" />
+      <County name="留坝县" code="101110804" />
+      <County name="洋县" code="101110805" />
+      <County name="城固县" code="101110806" />
+      <County name="西乡县" code="101110807" />
+      <County name="佛坪县" code="101110808" />
+      <County name="宁强县" code="101110809" />
+      <County name="南郑县" code="101110810" />
+      <County name="镇巴县" code="101110811" />
+    </City>
+    <City name="杨凌市">
+      <County name="杨凌市" code="101111101" />
+    </City>
+    <City name="宝鸡市">
+      <County name="宝鸡市" code="101110901" />
+      <County name="千阳县" code="101110903" />
+      <County name="麟游县" code="101110904" />
+      <County name="岐山县" code="101110905" />
+      <County name="凤翔县" code="101110906" />
+      <County name="扶风县" code="101110907" />
+      <County name="眉县" code="101110908" />
+      <County name="太白县" code="101110909" />
+      <County name="凤县" code="101110910" />
+      <County name="陇县" code="101110911" />
+      <County name="陈仓区" code="101110912" />
+    </City>
+    <City name="铜川市">
+      <County name="铜川市" code="101111001" />
+      <County name="耀县" code="101111002" />
+      <County name="宜君县" code="101111003" />
+      <County name="耀州" code="101111004" />
+    </City>
+  </Province>
+  <Province name="山东省">
+    <City name="济南市">
+      <County name="济南市" code="101120101" />
+      <County name="长清区" code="101120102" />
+      <County name="商河县" code="101120103" />
+      <County name="章丘市" code="101120104" />
+      <County name="平阴县" code="101120105" />
+      <County name="济阳县" code="101120106" />
+    </City>
+    <City name="青岛市">
+      <County name="青岛市" code="101120201" />
+      <County name="崂山" code="101120202" />
+      <County name="即墨市" code="101120204" />
+      <County name="胶州市" code="101120205" />
+      <County name="胶南市" code="101120206" />
+      <County name="莱西市" code="101120207" />
+      <County name="平度市" code="101120208" />
+    </City>
+    <City name="淄博市">
+      <County name="淄博市" code="101120301" />
+      <County name="淄川区" code="101120302" />
+      <County name="博山区" code="101120303" />
+      <County name="高青县" code="101120304" />
+      <County name="周村区" code="101120305" />
+      <County name="沂源县" code="101120306" />
+      <County name="桓台县" code="101120307" />
+      <County name="临淄区" code="101120308" />
+    </City>
+    <City name="德州市">
+      <County name="德州市" code="101120401" />
+      <County name="武城县" code="101120402" />
+      <County name="临邑县" code="101120403" />
+      <County name="陵县" code="101120404" />
+      <County name="齐河县" code="101120405" />
+      <County name="乐陵市" code="101120406" />
+      <County name="庆云县" code="101120407" />
+      <County name="平原县" code="101120408" />
+      <County name="宁津县" code="101120409" />
+      <County name="夏津县" code="101120410" />
+      <County name="禹城市" code="101120411" />
+    </City>
+    <City name="烟台市">
+      <County name="烟台市" code="101120501" />
+      <County name="莱州市" code="101120502" />
+      <County name="长岛县" code="101120503" />
+      <County name="蓬莱市" code="101120504" />
+      <County name="龙口市" code="101120505" />
+      <County name="招远市" code="101120506" />
+      <County name="栖霞市" code="101120507" />
+      <County name="福山区" code="101120508" />
+      <County name="牟平区" code="101120509" />
+      <County name="莱阳市" code="101120510" />
+      <County name="海阳市" code="101120511" />
+    </City>
+    <City name="潍坊市">
+      <County name="潍坊市" code="101120601" />
+      <County name="青州市" code="101120602" />
+      <County name="寿光市" code="101120603" />
+      <County name="临朐县" code="101120604" />
+      <County name="昌乐县" code="101120605" />
+      <County name="昌邑市" code="101120606" />
+      <County name="安丘市" code="101120607" />
+      <County name="高密市" code="101120608" />
+      <County name="诸城市" code="101120609" />
+    </City>
+    <City name="济宁市">
+      <County name="济宁市" code="101120701" />
+      <County name="嘉祥县" code="101120702" />
+      <County name="微山县" code="101120703" />
+      <County name="鱼台县" code="101120704" />
+      <County name="兖州市" code="101120705" />
+      <County name="金乡县" code="101120706" />
+      <County name="汶上县" code="101120707" />
+      <County name="泗水县" code="101120708" />
+      <County name="梁山县" code="101120709" />
+      <County name="曲阜市" code="101120710" />
+      <County name="邹城市" code="101120711" />
+    </City>
+    <City name="泰安市">
+      <County name="泰安市" code="101120801" />
+      <County name="新泰市" code="101120802" />
+      <County name="肥城市" code="101120804" />
+      <County name="东平县" code="101120805" />
+      <County name="宁阳县" code="101120806" />
+    </City>
+    <City name="临沂市">
+      <County name="临沂市" code="101120901" />
+      <County name="莒南县" code="101120902" />
+      <County name="沂南县" code="101120903" />
+      <County name="苍山县" code="101120904" />
+      <County name="临沭县" code="101120905" />
+      <County name="郯城县" code="101120906" />
+      <County name="蒙阴县" code="101120907" />
+      <County name="平邑县" code="101120908" />
+      <County name="费县" code="101120909" />
+      <County name="沂水县" code="101120910" />
+    </City>
+    <City name="菏泽市">
+      <County name="菏泽市" code="101121001" />
+      <County name="鄄城县" code="101121002" />
+      <County name="郓城县" code="101121003" />
+      <County name="东明县" code="101121004" />
+      <County name="定陶县" code="101121005" />
+      <County name="巨野县" code="101121006" />
+      <County name="曹县" code="101121007" />
+      <County name="成武县" code="101121008" />
+      <County name="单县" code="101121009" />
+    </City>
+    <City name="滨州市">
+      <County name="滨州市" code="101121101" />
+      <County name="博兴县" code="101121102" />
+      <County name="无棣县" code="101121103" />
+      <County name="阳信县" code="101121104" />
+      <County name="惠民县" code="101121105" />
+      <County name="沾化县" code="101121106" />
+      <County name="邹平县" code="101121107" />
+    </City>
+    <City name="东营市">
+      <County name="东营市" code="101121201" />
+      <County name="河口" code="101121202" />
+      <County name="垦利县" code="101121203" />
+      <County name="利津县" code="101121204" />
+      <County name="广饶县" code="101121205" />
+    </City>
+    <City name="威海市">
+      <County name="威海市" code="101121301" />
+      <County name="文登市" code="101121302" />
+      <County name="荣成市" code="101121303" />
+      <County name="乳山市" code="101121304" />
+      <County name="成山头" code="101121305" />
+      <County name="石岛" code="101121306" />
+    </City>
+    <City name="枣庄市">
+      <County name="枣庄市" code="101121401" />
+      <County name="薛城区" code="101121402" />
+      <County name="峄城区" code="101121403" />
+      <County name="台儿庄区" code="101121404" />
+      <County name="滕州市" code="101121405" />
+    </City>
+    <City name="日照市">
+      <County name="日照市" code="101121501" />
+      <County name="五莲县" code="101121502" />
+      <County name="莒县" code="101121503" />
+    </City>
+    <City name="莱芜市">
+      <County name="莱芜市" code="101121601" />
+    </City>
+    <City name="聊城市">
+      <County name="聊城市" code="101121701" />
+      <County name="冠县" code="101121702" />
+      <County name="阳谷县" code="101121703" />
+      <County name="高唐县" code="101121704" />
+      <County name="茌平县" code="101121705" />
+      <County name="东阿县" code="101121706" />
+      <County name="临清市" code="101121707" />
+      <County name="莘县" code="101121709" />
+    </City>
+  </Province>
+  <Province name="新疆维吾尔族自治区">
+    <City name="乌鲁木齐市">
+      <County name="乌鲁木齐市" code="101130101" />
+      <County name="小渠子" code="101130103" />
+      <County name="达坂城" code="101130105" />
+      <County name="乌鲁木齐牧试站" code="101130108" />
+      <County name="天池" code="101130109" />
+      <County name="白杨沟" code="101130110" />
+    </City>
+    <City name="克拉玛依市">
+      <County name="克拉玛依市" code="101130201" />
+      <County name="乌尔禾区" code="101130202" />
+      <County name="白碱滩区" code="101130203" />
+    </City>
+    <City name="石河子市">
+      <County name="石河子市" code="101130301" />
+      <County name="炮台" code="101130302" />
+      <County name="莫索湾" code="101130303" />
+    </City>
+    <City name="昌吉市">
+      <County name="昌吉市" code="101130401" />
+      <County name="呼图壁县" code="101130402" />
+      <County name="米泉市" code="101130403" />
+      <County name="阜康市" code="101130404" />
+      <County name="吉木萨尔" code="101130405" />
+      <County name="奇台县" code="101130406" />
+      <County name="玛纳斯县" code="101130407" />
+      <County name="木垒县" code="101130408" />
+      <County name="蔡家湖" code="101130409" />
+    </City>
+    <City name="吐鲁番市">
+      <County name="吐鲁番市" code="101130501" />
+      <County name="托克逊县" code="101130502" />
+      <County name="鄯善县" code="101130504" />
+    </City>
+    <City name="库尔勒市">
+      <County name="库尔勒市" code="101130601" />
+      <County name="轮台县" code="101130602" />
+      <County name="尉犁县" code="101130603" />
+      <County name="若羌县" code="101130604" />
+      <County name="且末县" code="101130605" />
+      <County name="和静县" code="101130606" />
+      <County name="焉耆县" code="101130607" />
+      <County name="和硕县" code="101130608" />
+      <County name="巴音布鲁" code="101130610" />
+      <County name="铁干里克" code="101130611" />
+      <County name="博湖县" code="101130612" />
+      <County name="塔中" code="101130613" />
+      <County name="巴仑台" code="101130614" />
+    </City>
+    <City name="阿拉尔市">
+      <County name="阿拉尔市" code="101130701" />
+    </City>
+    <City name="阿克苏市">
+      <County name="阿克苏市" code="101130801" />
+      <County name="乌什县" code="101130802" />
+      <County name="温宿县" code="101130803" />
+      <County name="拜城县" code="101130804" />
+      <County name="新和县" code="101130805" />
+      <County name="沙雅县" code="101130806" />
+      <County name="库车县" code="101130807" />
+      <County name="柯坪县" code="101130808" />
+      <County name="阿瓦提县" code="101130809" />
+    </City>
+    <City name="喀什市">
+      <County name="喀什市" code="101130901" />
+      <County name="英吉沙县" code="101130902" />
+      <County name="塔什库尔干" code="101130903" />
+      <County name="麦盖提县" code="101130904" />
+      <County name="莎车县" code="101130905" />
+      <County name="叶城县" code="101130906" />
+      <County name="泽普县" code="101130907" />
+      <County name="巴楚县" code="101130908" />
+      <County name="岳普湖县" code="101130909" />
+      <County name="伽师县" code="101130910" />
+      <County name="疏附县" code="101130911" />
+      <County name="疏勒县" code="101130912" />
+    </City>
+    <City name="伊宁市">
+      <County name="伊宁市" code="101131001" />
+      <County name="察布查尔" code="101131002" />
+      <County name="尼勒克县" code="101131003" />
+      <County name="伊宁县" code="101131004" />
+      <County name="巩留县" code="101131005" />
+      <County name="新源县" code="101131006" />
+      <County name="昭苏县" code="101131007" />
+      <County name="特克斯县" code="101131008" />
+      <County name="霍城县" code="101131009" />
+      <County name="霍尔果斯" code="101131010" />
+      <County name="奎屯市" code="101131011" />
+    </City>
+    <City name="塔城市">
+      <County name="塔城市" code="101131101" />
+      <County name="裕民县" code="101131102" />
+      <County name="额敏县" code="101131103" />
+      <County name="和布克赛尔" code="101131104" />
+      <County name="托里县" code="101131105" />
+      <County name="乌苏市" code="101131106" />
+      <County name="沙湾县" code="101131107" />
+    </City>
+    <City name="哈密市">
+      <County name="哈密市" code="101131201" />
+      <County name="巴里坤县" code="101131203" />
+      <County name="伊吾县" code="101131204" />
+    </City>
+    <City name="和田市">
+      <County name="和田市" code="101131301" />
+      <County name="皮山县" code="101131302" />
+      <County name="策勒县" code="101131303" />
+      <County name="墨玉县" code="101131304" />
+      <County name="洛浦县" code="101131305" />
+      <County name="民丰县" code="101131306" />
+      <County name="于田县" code="101131307" />
+    </City>
+    <City name="阿勒泰市">
+      <County name="阿勒泰市" code="101131401" />
+      <County name="哈巴河县" code="101131402" />
+      <County name="吉木乃县" code="101131405" />
+      <County name="布尔津县" code="101131406" />
+      <County name="福海县" code="101131407" />
+      <County name="富蕴县" code="101131408" />
+      <County name="青河县" code="101131409" />
+    </City>
+    <City name="阿图什市">
+      <County name="阿图什市" code="101131501" />
+      <County name="乌恰县" code="101131502" />
+      <County name="阿克陶县" code="101131503" />
+      <County name="阿合奇县" code="101131504" />
+    </City>
+    <City name="博乐市">
+      <County name="博乐市" code="101131601" />
+      <County name="温泉县" code="101131602" />
+      <County name="精河县" code="101131603" />
+      <County name="阿拉山口" code="101131606" />
+    </City>
+  </Province>
+  <Province name="西藏自治区">
+    <City name="拉萨市">
+      <County name="拉萨市" code="101140101" />
+      <County name="当雄县" code="101140102" />
+      <County name="尼木县" code="101140103" />
+      <County name="林周县" code="101140104" />
+      <County name="堆龙德庆" code="101140105" />
+      <County name="曲水县" code="101140106" />
+      <County name="达孜县" code="101140107" />
+      <County name="墨竹工卡" code="101140108" />
+    </City>
+    <City name="日喀则市">
+      <County name="日喀则市" code="101140201" />
+      <County name="拉孜县" code="101140202" />
+      <County name="南木林县" code="101140203" />
+      <County name="聂拉木县" code="101140204" />
+      <County name="定日县" code="101140205" />
+      <County name="江孜县" code="101140206" />
+      <County name="帕里县" code="101140207" />
+      <County name="仲巴县" code="101140208" />
+      <County name="萨嘎县" code="101140209" />
+      <County name="吉隆县" code="101140210" />
+      <County name="昂仁县" code="101140211" />
+      <County name="定结县" code="101140212" />
+      <County name="萨迦县" code="101140213" />
+      <County name="谢通门县" code="101140214" />
+      <County name="岗巴县" code="101140216" />
+      <County name="白朗县" code="101140217" />
+      <County name="亚东县" code="101140218" />
+      <County name="康马县" code="101140219" />
+      <County name="仁布县" code="101140220" />
+    </City>
+    <City name="山南市">
+      <County name="山南市" code="101140301" />
+      <County name="贡县嘎" code="101140302" />
+      <County name="扎囊县" code="101140303" />
+      <County name="加查县" code="101140304" />
+      <County name="浪卡子县" code="101140305" />
+      <County name="错那县" code="101140306" />
+      <County name="隆子县" code="101140307" />
+      <County name="泽当县" code="101140308" />
+      <County name="乃东县" code="101140309" />
+      <County name="桑日县" code="101140310" />
+      <County name="洛扎县" code="101140311" />
+      <County name="措美县" code="101140312" />
+      <County name="琼结县" code="101140313" />
+      <County name="曲松县" code="101140314" />
+    </City>
+    <City name="林芝市">
+      <County name="林芝市" code="101140401" />
+      <County name="波密县" code="101140402" />
+      <County name="米林县" code="101140403" />
+      <County name="察隅县" code="101140404" />
+      <County name="工布江达" code="101140405" />
+      <County name="朗县" code="101140406" />
+      <County name="墨脱县" code="101140407" />
+    </City>
+    <City name="昌都市">
+      <County name="昌都市" code="101140501" />
+      <County name="丁青县" code="101140502" />
+      <County name="边坝县" code="101140503" />
+      <County name="洛隆县" code="101140504" />
+      <County name="左贡县" code="101140505" />
+      <County name="芒康县" code="101140506" />
+      <County name="类乌齐县" code="101140507" />
+      <County name="八宿县" code="101140508" />
+      <County name="江达县" code="101140509" />
+      <County name="察雅县" code="101140510" />
+      <County name="贡觉县" code="101140511" />
+    </City>
+    <City name="那曲县">
+      <County name="那曲县" code="101140601" />
+      <County name="尼玛县" code="101140602" />
+      <County name="嘉黎县" code="101140603" />
+      <County name="班戈县" code="101140604" />
+      <County name="安多县" code="101140605" />
+      <County name="索县" code="101140606" />
+      <County name="聂荣县" code="101140607" />
+      <County name="巴青县" code="101140608" />
+      <County name="比如县" code="101140609" />
+      <County name="双湖县" code="101140610" />
+    </City>
+    <City name="阿里">
+      <County name="阿里" code="101140701" />
+      <County name="改则县" code="101140702" />
+      <County name="申扎" code="101140703" />
+      <County name="狮泉河" code="101140704" />
+      <County name="普兰县" code="101140705" />
+      <County name="札达县" code="101140706" />
+      <County name="噶尔县" code="101140707" />
+      <County name="日土县" code="101140708" />
+      <County name="革吉县" code="101140709" />
+      <County name="措勤县" code="101140710" />
+    </City>
+  </Province>
+  <Province name="青海省">
+    <City name="西宁市">
+      <County name="西宁市" code="101150101" />
+      <County name="大通县" code="101150102" />
+      <County name="湟源县" code="101150103" />
+      <County name="湟中县" code="101150104" />
+    </City>
+    <City name="海东市">
+      <County name="海东市" code="101150201" />
+      <County name="乐都县" code="101150202" />
+      <County name="民和县" code="101150203" />
+      <County name="互助县" code="101150204" />
+      <County name="化隆县" code="101150205" />
+      <County name="循化县" code="101150206" />
+      <County name="冷湖县" code="101150207" />
+      <County name="平安县" code="101150208" />
+    </City>
+    <City name="黄南市">
+      <County name="黄南市" code="101150301" />
+      <County name="尖扎县" code="101150302" />
+      <County name="泽库县" code="101150303" />
+      <County name="河南县" code="101150304" />
+      <County name="同仁县" code="101150305" />
+    </City>
+    <City name="海南市">
+      <County name="海南市" code="101150401" />
+      <County name="贵德县" code="101150404" />
+      <County name="兴海县" code="101150406" />
+      <County name="贵南县" code="101150407" />
+      <County name="同德县" code="101150408" />
+      <County name="共和县" code="101150409" />
+    </City>
+    <City name="果洛县">
+      <County name="果洛县" code="101150501" />
+      <County name="班玛县" code="101150502" />
+      <County name="甘德县" code="101150503" />
+      <County name="达日县" code="101150504" />
+      <County name="久治县" code="101150505" />
+      <County name="玛多县" code="101150506" />
+      <County name="多县" code="101150507" />
+      <County name="玛沁县" code="101150508" />
+    </City>
+    <City name="玉树市">
+      <County name="玉树市" code="101150601" />
+      <County name="称多县" code="101150602" />
+      <County name="治多县" code="101150603" />
+      <County name="杂多县" code="101150604" />
+      <County name="囊谦县" code="101150605" />
+      <County name="曲麻莱县" code="101150606" />
+    </City>
+    <City name="海西市">
+      <County name="海西市" code="101150701" />
+      <County name="天峻县" code="101150708" />
+      <County name="乌兰县" code="101150709" />
+      <County name="茫崖" code="101150712" />
+      <County name="大柴旦" code="101150713" />
+      <County name="德令哈市" code="101150716" />
+    </City>
+    <City name="海北市">
+      <County name="海北市" code="101150801" />
+      <County name="门源县" code="101150802" />
+      <County name="祁连县" code="101150803" />
+      <County name="海晏县" code="101150804" />
+      <County name="刚察县" code="101150806" />
+    </City>
+  </Province>
+  <Province name="甘肃省">
+    <City name="兰州市">
+      <County name="兰州市" code="101160101" />
+      <County name="皋兰县" code="101160102" />
+      <County name="永登县" code="101160103" />
+      <County name="榆中县" code="101160104" />
+    </City>
+    <City name="嘉峪关市">
+      <County name="嘉峪关市" code="101161401" />
+    </City>
+    <City name="定西市">
+      <County name="定西市" code="101160201" />
+      <County name="通渭县" code="101160202" />
+      <County name="陇西县" code="101160203" />
+      <County name="渭源县" code="101160204" />
+      <County name="临洮县" code="101160205" />
+      <County name="漳县" code="101160206" />
+      <County name="岷县" code="101160207" />
+      <County name="安定区" code="101160208" />
+    </City>
+    <City name="平凉市">
+      <County name="平凉市" code="101160301" />
+      <County name="泾川县" code="101160302" />
+      <County name="灵台县" code="101160303" />
+      <County name="崇信县" code="101160304" />
+      <County name="华亭县" code="101160305" />
+      <County name="庄浪县" code="101160306" />
+      <County name="静宁县" code="101160307" />
+      <County name="崆峒区" code="101160308" />
+    </City>
+    <City name="西峰区">
+      <County name="西峰区" code="101160401" />
+      <County name="环县" code="101160403" />
+      <County name="华池县" code="101160404" />
+      <County name="合水县" code="101160405" />
+      <County name="正宁县" code="101160406" />
+      <County name="宁县" code="101160407" />
+      <County name="镇原县" code="101160408" />
+      <County name="庆城县" code="101160409" />
+    </City>
+    <City name="武威市">
+      <County name="武威市" code="101160501" />
+      <County name="民勤县" code="101160502" />
+      <County name="古浪县" code="101160503" />
+      <County name="天祝县" code="101160505" />
+    </City>
+    <City name="金昌市">
+      <County name="金昌市" code="101160601" />
+      <County name="永昌县" code="101160602" />
+    </City>
+    <City name="张掖市">
+      <County name="张掖市" code="101160701" />
+      <County name="肃南县" code="101160702" />
+      <County name="民乐县" code="101160703" />
+      <County name="临泽县" code="101160704" />
+      <County name="高台县" code="101160705" />
+      <County name="山丹县" code="101160706" />
+    </City>
+    <City name="酒泉市">
+      <County name="酒泉市" code="101160801" />
+      <County name="金塔县" code="101160803" />
+      <County name="阿克塞" code="101160804" />
+      <County name="瓜州县" code="101160805" />
+      <County name="肃北县" code="101160806" />
+      <County name="玉门市" code="101160807" />
+      <County name="敦煌市" code="101160808" />
+    </City>
+    <City name="天水市">
+      <County name="天水市" code="101160901" />
+      <County name="清水县" code="101160903" />
+      <County name="秦安县" code="101160904" />
+      <County name="甘谷县" code="101160905" />
+      <County name="武山县" code="101160906" />
+      <County name="张家川县" code="101160907" />
+      <County name="麦积区" code="101160908" />
+    </City>
+    <City name="武都区">
+      <County name="武都区" code="101161001" />
+      <County name="成县" code="101161002" />
+      <County name="文县" code="101161003" />
+      <County name="宕昌县" code="101161004" />
+      <County name="康县" code="101161005" />
+      <County name="西和县" code="101161006" />
+      <County name="礼县" code="101161007" />
+      <County name="徽县" code="101161008" />
+      <County name="两当县" code="101161009" />
+    </City>
+    <City name="临夏市">
+      <County name="临夏市" code="101161101" />
+      <County name="康乐县" code="101161102" />
+      <County name="永靖县" code="101161103" />
+      <County name="广河县" code="101161104" />
+      <County name="和政县" code="101161105" />
+      <County name="东乡" code="101161106" />
+      <County name="积石山县" code="101161107" />
+    </City>
+    <City name="合作市">
+      <County name="合作市" code="101161201" />
+      <County name="临潭县" code="101161202" />
+      <County name="卓尼县" code="101161203" />
+      <County name="舟曲县" code="101161204" />
+      <County name="迭部县" code="101161205" />
+      <County name="玛曲县" code="101161206" />
+      <County name="碌曲县" code="101161207" />
+      <County name="夏河县" code="101161208" />
+    </City>
+    <City name="白银市">
+      <County name="白银市" code="101161301" />
+      <County name="靖远县" code="101161302" />
+      <County name="会宁县" code="101161303" />
+      <County name="平川区" code="101161304" />
+      <County name="景泰县" code="101161305" />
+    </City>
+  </Province>
+  <Province name="宁夏回族自治区">
+    <City name="银川市">
+      <County name="银川市" code="101170101" />
+      <County name="永宁县" code="101170102" />
+      <County name="灵武市" code="101170103" />
+      <County name="贺兰县" code="101170104" />
+    </City>
+    <City name="石嘴山市">
+      <County name="石嘴山市" code="101170201" />
+      <County name="惠农县" code="101170202" />
+      <County name="平罗县" code="101170203" />
+      <County name="陶乐县" code="101170204" />
+    </City>
+    <City name="吴忠市">
+      <County name="吴忠市" code="101170301" />
+      <County name="同心县" code="101170302" />
+      <County name="盐池县" code="101170303" />
+      <County name="青铜峡市" code="101170306" />
+    </City>
+    <City name="固原市">
+      <County name="固原市" code="101170401" />
+      <County name="西吉县" code="101170402" />
+      <County name="隆德县" code="101170403" />
+      <County name="泾源县" code="101170404" />
+      <County name="彭阳县" code="101170406" />
+    </City>
+    <City name="中卫市">
+      <County name="中卫市" code="101170501" />
+      <County name="中宁县" code="101170502" />
+      <County name="海原县" code="101170504" />
+    </City>
+  </Province>
+  <Province name="河南省">
+    <City name="郑州市">
+      <County name="郑州市" code="101180101" />
+      <County name="巩义市" code="101180102" />
+      <County name="荥阳市" code="101180103" />
+      <County name="登封市" code="101180104" />
+      <County name="新密市" code="101180105" />
+      <County name="新郑市" code="101180106" />
+      <County name="中牟县" code="101180107" />
+      <County name="上街" code="101180108" />
+    </City>
+    <City name="安阳市">
+      <County name="安阳市" code="101180201" />
+      <County name="汤阴县" code="101180202" />
+      <County name="滑县" code="101180203" />
+      <County name="内黄县" code="101180204" />
+      <County name="林州市" code="101180205" />
+    </City>
+    <City name="新乡市">
+      <County name="新乡市" code="101180301" />
+      <County name="获嘉县" code="101180302" />
+      <County name="原阳县" code="101180303" />
+      <County name="辉县市" code="101180304" />
+      <County name="卫辉市" code="101180305" />
+      <County name="延津县" code="101180306" />
+      <County name="封丘县" code="101180307" />
+      <County name="长垣县" code="101180308" />
+    </City>
+    <City name="许昌市">
+      <County name="许昌市" code="101180401" />
+      <County name="鄢陵县" code="101180402" />
+      <County name="襄城县" code="101180403" />
+      <County name="长葛市" code="101180404" />
+      <County name="禹州市" code="101180405" />
+    </City>
+    <City name="平顶山市">
+      <County name="平顶山市" code="101180501" />
+      <County name="郏县" code="101180502" />
+      <County name="宝丰县" code="101180503" />
+      <County name="汝州市" code="101180504" />
+      <County name="叶县" code="101180505" />
+      <County name="舞钢市" code="101180506" />
+      <County name="鲁山县" code="101180507" />
+      <County name="石龙区" code="101180508" />
+    </City>
+    <City name="信阳市">
+      <County name="信阳市" code="101180601" />
+      <County name="息县" code="101180602" />
+      <County name="罗山县" code="101180603" />
+      <County name="光山县" code="101180604" />
+      <County name="新县" code="101180605" />
+      <County name="淮滨县" code="101180606" />
+      <County name="潢川县" code="101180607" />
+      <County name="固始县" code="101180608" />
+      <County name="商城县" code="101180609" />
+    </City>
+    <City name="南阳市">
+      <County name="南阳市" code="101180701" />
+      <County name="南召县" code="101180702" />
+      <County name="方城县" code="101180703" />
+      <County name="社旗县" code="101180704" />
+      <County name="西峡县" code="101180705" />
+      <County name="内乡县" code="101180706" />
+      <County name="镇平县" code="101180707" />
+      <County name="淅川县" code="101180708" />
+      <County name="新野县" code="101180709" />
+      <County name="唐河县" code="101180710" />
+      <County name="邓州市" code="101180711" />
+      <County name="桐柏县" code="101180712" />
+    </City>
+    <City name="开封市">
+      <County name="开封市" code="101180801" />
+      <County name="杞县" code="101180802" />
+      <County name="尉氏县" code="101180803" />
+      <County name="通许县" code="101180804" />
+      <County name="兰考县" code="101180805" />
+    </City>
+    <City name="洛阳市">
+      <County name="洛阳市" code="101180901" />
+      <County name="新安县" code="101180902" />
+      <County name="孟津县" code="101180903" />
+      <County name="宜阳县" code="101180904" />
+      <County name="洛宁县" code="101180905" />
+      <County name="伊川县" code="101180906" />
+      <County name="嵩县" code="101180907" />
+      <County name="偃师市" code="101180908" />
+      <County name="栾川县" code="101180909" />
+      <County name="汝阳县" code="101180910" />
+      <County name="吉利区" code="101180911" />
+    </City>
+    <City name="商丘市">
+      <County name="商丘市" code="101181001" />
+      <County name="睢县" code="101181003" />
+      <County name="民权县" code="101181004" />
+      <County name="虞城县" code="101181005" />
+      <County name="柘城县" code="101181006" />
+      <County name="宁陵县" code="101181007" />
+      <County name="夏邑县" code="101181008" />
+      <County name="永城市" code="101181009" />
+    </City>
+    <City name="焦作市">
+      <County name="焦作市" code="101181101" />
+      <County name="修武县" code="101181102" />
+      <County name="武陟县" code="101181103" />
+      <County name="沁阳市" code="101181104" />
+      <County name="博爱县" code="101181106" />
+      <County name="温县" code="101181107" />
+      <County name="孟州市" code="101181108" />
+    </City>
+    <City name="鹤壁市">
+      <County name="鹤壁市" code="101181201" />
+      <County name="浚县" code="101181202" />
+      <County name="淇县" code="101181203" />
+    </City>
+    <City name="濮阳市">
+      <County name="濮阳市" code="101181301" />
+      <County name="台前县" code="101181302" />
+      <County name="南乐县" code="101181303" />
+      <County name="清丰县" code="101181304" />
+      <County name="范县" code="101181305" />
+    </City>
+    <City name="周口市">
+      <County name="周口市" code="101181401" />
+      <County name="扶沟县" code="101181402" />
+      <County name="太康县" code="101181403" />
+      <County name="淮阳县" code="101181404" />
+      <County name="西华县" code="101181405" />
+      <County name="商水县" code="101181406" />
+      <County name="项城市" code="101181407" />
+      <County name="郸城县" code="101181408" />
+      <County name="鹿邑县" code="101181409" />
+      <County name="沈丘县" code="101181410" />
+    </City>
+    <City name="漯河市">
+      <County name="漯河市" code="101181501" />
+      <County name="临颍县" code="101181502" />
+      <County name="舞阳县" code="101181503" />
+    </City>
+    <City name="驻马店市">
+      <County name="驻马店市" code="101181601" />
+      <County name="西平县" code="101181602" />
+      <County name="遂平县" code="101181603" />
+      <County name="上蔡县" code="101181604" />
+      <County name="汝南县" code="101181605" />
+      <County name="泌阳县" code="101181606" />
+      <County name="平舆县" code="101181607" />
+      <County name="新蔡县" code="101181608" />
+      <County name="确山县" code="101181609" />
+      <County name="正阳县" code="101181610" />
+    </City>
+    <City name="三门峡市">
+      <County name="三门峡市" code="101181701" />
+      <County name="灵宝市" code="101181702" />
+      <County name="渑池县" code="101181703" />
+      <County name="卢氏县" code="101181704" />
+      <County name="义马市" code="101181705" />
+      <County name="陕县" code="101181706" />
+    </City>
+    <City name="济源市">
+      <County name="济源市" code="101181801" />
+    </City>
+  </Province>
+  <Province name="江苏省">
+    <City name="南京市">
+      <County name="南京市" code="101190101" />
+      <County name="溧水县" code="101190102" />
+      <County name="高淳县" code="101190103" />
+      <County name="江宁区" code="101190104" />
+      <County name="六合区" code="101190105" />
+      <County name="江浦" code="101190106" />
+      <County name="浦口区" code="101190107" />
+    </City>
+    <City name="无锡市">
+      <County name="无锡市" code="101190201" />
+      <County name="江阴市" code="101190202" />
+      <County name="宜兴市" code="101190203" />
+      <County name="锡山区" code="101190204" />
+    </City>
+    <City name="镇江市">
+      <County name="镇江市" code="101190301" />
+      <County name="丹阳市" code="101190302" />
+      <County name="扬中市" code="101190303" />
+      <County name="句容市" code="101190304" />
+      <County name="丹徒区" code="101190305" />
+    </City>
+    <City name="苏州市">
+      <County name="苏州市" code="101190401" />
+      <County name="常熟市" code="101190402" />
+      <County name="张家港市" code="101190403" />
+      <County name="昆山市" code="101190404" />
+      <County name="吴中" code="101190405" />
+      <County name="吴江市" code="101190407" />
+      <County name="太仓市" code="101190408" />
+    </City>
+    <City name="南通市">
+      <County name="南通市" code="101190501" />
+      <County name="海安县" code="101190502" />
+      <County name="如皋市" code="101190503" />
+      <County name="如东县" code="101190504" />
+      <County name="启东市" code="101190507" />
+      <County name="海门市" code="101190508" />
+      <County name="通州区" code="101190509" />
+    </City>
+    <City name="扬州市">
+      <County name="扬州市" code="101190601" />
+      <County name="宝应县" code="101190602" />
+      <County name="仪征市" code="101190603" />
+      <County name="高邮市" code="101190604" />
+      <County name="江都区" code="101190605" />
+      <County name="邗江区" code="101190606" />
+    </City>
+    <City name="盐城市">
+      <County name="盐城市" code="101190701" />
+      <County name="响水县" code="101190702" />
+      <County name="滨海县" code="101190703" />
+      <County name="阜宁县" code="101190704" />
+      <County name="射阳县" code="101190705" />
+      <County name="建湖县" code="101190706" />
+      <County name="东台市" code="101190707" />
+      <County name="大丰市" code="101190708" />
+      <County name="盐都区" code="101190709" />
+    </City>
+    <City name="徐州市">
+      <County name="徐州市" code="101190801" />
+      <County name="铜山区" code="101190802" />
+      <County name="丰县" code="101190803" />
+      <County name="沛县" code="101190804" />
+      <County name="邳州市" code="101190805" />
+      <County name="睢宁县" code="101190806" />
+      <County name="新沂市" code="101190807" />
+    </City>
+    <City name="淮安市">
+      <County name="淮安市" code="101190901" />
+      <County name="金湖县" code="101190902" />
+      <County name="盱眙县" code="101190903" />
+      <County name="洪泽县" code="101190904" />
+      <County name="涟水县" code="101190905" />
+      <County name="淮阴区" code="101190906" />
+      <County name="楚州区" code="101190908" />
+    </City>
+    <City name="连云港市">
+      <County name="连云港市" code="101191001" />
+      <County name="东海县" code="101191002" />
+      <County name="赣榆县" code="101191003" />
+      <County name="灌云县" code="101191004" />
+      <County name="灌南县" code="101191005" />
+    </City>
+    <City name="常州市">
+      <County name="常州市" code="101191101" />
+      <County name="溧阳市" code="101191102" />
+      <County name="金坛市" code="101191103" />
+      <County name="武进区" code="101191104" />
+    </City>
+    <City name="泰州市">
+      <County name="泰州市" code="101191201" />
+      <County name="兴化市" code="101191202" />
+      <County name="泰兴市" code="101191203" />
+      <County name="姜堰市" code="101191204" />
+      <County name="靖江市" code="101191205" />
+    </City>
+    <City name="宿迁市">
+      <County name="宿迁市" code="101191301" />
+      <County name="沭阳县" code="101191302" />
+      <County name="泗阳县" code="101191303" />
+      <County name="泗洪县" code="101191304" />
+      <County name="宿豫区" code="101191305" />
+    </City>
+  </Province>
+  <Province name="湖北省">
+    <City name="武汉市">
+      <County name="武汉市" code="101200101" />
+      <County name="蔡甸区" code="101200102" />
+      <County name="黄陂区" code="101200103" />
+      <County name="新洲区" code="101200104" />
+      <County name="江夏区" code="101200105" />
+      <County name="东西湖区" code="101200106" />
+    </City>
+    <City name="襄阳市">
+      <County name="襄阳市" code="101200201" />
+      <County name="襄州区" code="101200202" />
+      <County name="保康县" code="101200203" />
+      <County name="南漳县" code="101200204" />
+      <County name="宜城市" code="101200205" />
+      <County name="老河口市" code="101200206" />
+      <County name="谷城县" code="101200207" />
+      <County name="枣阳市" code="101200208" />
+    </City>
+    <City name="鄂州市">
+      <County name="鄂州市" code="101200301" />
+      <County name="梁子湖" code="101200302" />
+    </City>
+    <City name="孝感市">
+      <County name="孝感市" code="101200401" />
+      <County name="安陆市" code="101200402" />
+      <County name="云梦县" code="101200403" />
+      <County name="大悟县" code="101200404" />
+      <County name="应城市" code="101200405" />
+      <County name="汉川市" code="101200406" />
+      <County name="孝昌县" code="101200407" />
+    </City>
+    <City name="黄冈市">
+      <County name="黄冈市" code="101200501" />
+      <County name="红安县" code="101200502" />
+      <County name="麻城市" code="101200503" />
+      <County name="罗田县" code="101200504" />
+      <County name="英山县" code="101200505" />
+      <County name="浠水县" code="101200506" />
+      <County name="蕲春县" code="101200507" />
+      <County name="黄梅县" code="101200508" />
+      <County name="武穴市" code="101200509" />
+      <County name="团风县" code="101200510" />
+    </City>
+    <City name="黄石市">
+      <County name="黄石市" code="101200601" />
+      <County name="大冶市" code="101200602" />
+      <County name="阳新县" code="101200603" />
+      <County name="铁山区" code="101200604" />
+      <County name="下陆区" code="101200605" />
+      <County name="西塞山区" code="101200606" />
+    </City>
+    <City name="咸宁市">
+      <County name="咸宁市" code="101200701" />
+      <County name="赤壁市" code="101200702" />
+      <County name="嘉鱼县" code="101200703" />
+      <County name="崇阳县" code="101200704" />
+      <County name="通城县" code="101200705" />
+      <County name="通山县" code="101200706" />
+    </City>
+    <City name="荆州市">
+      <County name="荆州市" code="101200801" />
+      <County name="江陵县" code="101200802" />
+      <County name="公安县" code="101200803" />
+      <County name="石首市" code="101200804" />
+      <County name="监利县" code="101200805" />
+      <County name="洪湖市" code="101200806" />
+      <County name="松滋市" code="101200807" />
+    </City>
+    <City name="沙市区">
+      <County name="沙市区" code="101201406" />
+    </City>
+    <City name="宜昌市">
+      <County name="宜昌市" code="101200901" />
+      <County name="远安县" code="101200902" />
+      <County name="秭归县" code="101200903" />
+      <County name="兴山县" code="101200904" />
+      <County name="五峰县" code="101200906" />
+      <County name="当阳市" code="101200907" />
+      <County name="长阳县" code="101200908" />
+      <County name="宜都市" code="101200909" />
+      <County name="枝江市" code="101200910" />
+      <County name="三峡" code="101200911" />
+      <County name="夷陵区" code="101200912" />
+    </City>
+    <City name="恩施市">
+      <County name="恩施市" code="101201001" />
+      <County name="利川市" code="101201002" />
+      <County name="建始县" code="101201003" />
+      <County name="咸丰县" code="101201004" />
+      <County name="宣恩县" code="101201005" />
+      <County name="鹤峰县" code="101201006" />
+      <County name="来凤县" code="101201007" />
+      <County name="巴东县" code="101201008" />
+    </City>
+    <City name="十堰市">
+      <County name="十堰市" code="101201101" />
+      <County name="竹溪县" code="101201102" />
+      <County name="郧西县" code="101201103" />
+      <County name="郧县" code="101201104" />
+      <County name="竹山县" code="101201105" />
+      <County name="房县" code="101201106" />
+      <County name="丹江口市" code="101201107" />
+      <County name="茅箭区" code="101201108" />
+      <County name="张湾区" code="101201109" />
+    </City>
+    <City name="神农架">
+      <County name="神农架" code="101201201" />
+    </City>
+    <City name="随州市">
+      <County name="随州市" code="101201301" />
+      <County name="广水市" code="101201302" />
+    </City>
+    <City name="荆门市">
+      <County name="荆门市" code="101201401" />
+      <County name="钟祥市" code="101201402" />
+      <County name="京山县" code="101201403" />
+      <County name="掇刀区" code="101201404" />
+      <County name="沙洋县" code="101201405" />
+    </City>
+    <City name="天门市">
+      <County name="天门市" code="101201501" />
+    </City>
+    <City name="仙桃市">
+      <County name="仙桃市" code="101201601" />
+    </City>
+    <City name="潜江市">
+      <County name="潜江市" code="101201701" />
+    </City>
+  </Province>
+  <Province name="浙江省">
+    <City name="杭州市">
+      <County name="杭州市" code="101210101" />
+      <County name="萧山区" code="101210102" />
+      <County name="桐庐县" code="101210103" />
+      <County name="淳安县" code="101210104" />
+      <County name="建德市" code="101210105" />
+      <County name="余杭区" code="101210106" />
+      <County name="临安市" code="101210107" />
+      <County name="富阳市" code="101210108" />
+    </City>
+    <City name="湖州市">
+      <County name="湖州市" code="101210201" />
+      <County name="长兴县" code="101210202" />
+      <County name="安吉县" code="101210203" />
+      <County name="德清县" code="101210204" />
+    </City>
+    <City name="嘉兴市">
+      <County name="嘉兴市" code="101210301" />
+      <County name="嘉善县" code="101210302" />
+      <County name="海宁市" code="101210303" />
+      <County name="桐乡市" code="101210304" />
+      <County name="平湖市" code="101210305" />
+      <County name="海盐县" code="101210306" />
+    </City>
+    <City name="宁波市">
+      <County name="宁波市" code="101210401" />
+      <County name="慈溪市" code="101210403" />
+      <County name="余姚市" code="101210404" />
+      <County name="奉化市" code="101210405" />
+      <County name="象山县" code="101210406" />
+      <County name="宁海县" code="101210408" />
+      <County name="北仑区" code="101210410" />
+      <County name="鄞州区" code="101210411" />
+      <County name="镇海区" code="101210412" />
+    </City>
+    <City name="绍兴市">
+      <County name="绍兴市" code="101210501" />
+      <County name="诸暨市" code="101210502" />
+      <County name="上虞市" code="101210503" />
+      <County name="新昌县" code="101210504" />
+      <County name="嵊州市" code="101210505" />
+    </City>
+    <City name="台州市">
+      <County name="台州市" code="101210601" />
+      <County name="玉环县" code="101210603" />
+      <County name="三门县" code="101210604" />
+      <County name="天台县" code="101210605" />
+      <County name="仙居县" code="101210606" />
+      <County name="温岭市" code="101210607" />
+      <County name="洪家" code="101210609" />
+      <County name="临海市" code="101210610" />
+      <County name="椒江区" code="101210611" />
+      <County name="黄岩区" code="101210612" />
+      <County name="路桥区" code="101210613" />
+    </City>
+    <City name="温州市">
+      <County name="温州市" code="101210701" />
+      <County name="泰顺县" code="101210702" />
+      <County name="文成县" code="101210703" />
+      <County name="平阳县" code="101210704" />
+      <County name="瑞安市" code="101210705" />
+      <County name="洞头县" code="101210706" />
+      <County name="乐清市" code="101210707" />
+      <County name="永嘉县" code="101210708" />
+      <County name="苍南县" code="101210709" />
+    </City>
+    <City name="丽水市">
+      <County name="丽水市" code="101210801" />
+      <County name="遂昌县" code="101210802" />
+      <County name="龙泉市" code="101210803" />
+      <County name="缙云县" code="101210804" />
+      <County name="青田县" code="101210805" />
+      <County name="云和" code="101210806" />
+      <County name="庆元县" code="101210807" />
+      <County name="松阳县" code="101210808" />
+      <County name="景宁县" code="101210809" />
+    </City>
+    <City name="金华市">
+      <County name="金华市" code="101210901" />
+      <County name="浦江县" code="101210902" />
+      <County name="兰溪市" code="101210903" />
+      <County name="义乌市" code="101210904" />
+      <County name="东阳市" code="101210905" />
+      <County name="武义县" code="101210906" />
+      <County name="永康市" code="101210907" />
+      <County name="磐安县" code="101210908" />
+    </City>
+    <City name="衢州市">
+      <County name="衢州市" code="101211001" />
+      <County name="常山县" code="101211002" />
+      <County name="开化县" code="101211003" />
+      <County name="龙游县" code="101211004" />
+      <County name="江山市" code="101211005" />
+      <County name="衢江区" code="101211006" />
+    </City>
+    <City name="舟山市">
+      <County name="舟山市" code="101211101" />
+      <County name="嵊泗县" code="101211102" />
+      <County name="岱山县" code="101211104" />
+      <County name="普陀区" code="101211105" />
+      <County name="定海区" code="101211106" />
+    </City>
+  </Province>
+  <Province name="安徽省">
+    <City name="合肥市">
+      <County name="合肥市" code="101220101" />
+      <County name="长丰县" code="101220102" />
+      <County name="肥东县" code="101220103" />
+      <County name="肥西县" code="101220104" />
+    </City>
+    <City name="蚌埠市">
+      <County name="蚌埠市" code="101220201" />
+      <County name="怀远县" code="101220202" />
+      <County name="固镇县" code="101220203" />
+      <County name="五河县" code="101220204" />
+    </City>
+    <City name="芜湖市">
+      <County name="芜湖市" code="101220301" />
+      <County name="繁昌县" code="101220302" />
+      <County name="芜湖县" code="101220303" />
+      <County name="南陵县" code="101220304" />
+    </City>
+    <City name="淮南市">
+      <County name="淮南市" code="101220401" />
+      <County name="凤台县" code="101220402" />
+      <County name="潘集" code="101220403" />
+    </City>
+    <City name="马鞍山市">
+      <County name="马鞍山市" code="101220501" />
+      <County name="当涂县" code="101220502" />
+    </City>
+    <City name="安庆市">
+      <County name="安庆市" code="101220601" />
+      <County name="枞阳县" code="101220602" />
+      <County name="太湖县" code="101220603" />
+      <County name="潜山县" code="101220604" />
+      <County name="怀宁县" code="101220605" />
+      <County name="宿松县" code="101220606" />
+      <County name="望江县" code="101220607" />
+      <County name="岳西县" code="101220608" />
+      <County name="桐城市" code="101220609" />
+    </City>
+    <City name="宿州市">
+      <County name="宿州市" code="101220701" />
+      <County name="砀山县" code="101220702" />
+      <County name="灵璧县" code="101220703" />
+      <County name="泗县" code="101220704" />
+      <County name="萧县" code="101220705" />
+    </City>
+    <City name="阜阳市">
+      <County name="阜阳市" code="101220801" />
+      <County name="阜南县" code="101220802" />
+      <County name="颍上县" code="101220803" />
+      <County name="临泉县" code="101220804" />
+      <County name="界首市" code="101220805" />
+      <County name="太和县" code="101220806" />
+    </City>
+    <City name="亳州市">
+      <County name="亳州市" code="101220901" />
+      <County name="涡阳县" code="101220902" />
+      <County name="利辛县" code="101220903" />
+      <County name="蒙城县" code="101220904" />
+    </City>
+    <City name="黄山市">
+      <County name="黄山市" code="101221001" />
+      <County name="黄山区" code="101221002" />
+      <County name="屯溪区" code="101221003" />
+      <County name="祁门县" code="101221004" />
+      <County name="黟县" code="101221005" />
+      <County name="歙县" code="101221006" />
+      <County name="休宁县" code="101221007" />
+      <County name="黄山风景区" code="101221008" />
+    </City>
+    <City name="滁州市">
+      <County name="滁州市" code="101221101" />
+      <County name="凤阳县" code="101221102" />
+      <County name="明光市" code="101221103" />
+      <County name="定远县" code="101221104" />
+      <County name="全椒县" code="101221105" />
+      <County name="来安县" code="101221106" />
+      <County name="天长市" code="101221107" />
+    </City>
+    <City name="淮北市">
+      <County name="淮北市" code="101221201" />
+      <County name="濉溪县" code="101221202" />
+    </City>
+    <City name="铜陵市">
+      <County name="铜陵市" code="101221301" />
+    </City>
+    <City name="宣城市">
+      <County name="宣城市" code="101221401" />
+      <County name="泾县" code="101221402" />
+      <County name="旌德县" code="101221403" />
+      <County name="宁国市" code="101221404" />
+      <County name="绩溪县" code="101221405" />
+      <County name="广德县" code="101221406" />
+      <County name="郎溪县" code="101221407" />
+    </City>
+    <City name="六安市">
+      <County name="六安市" code="101221501" />
+      <County name="霍邱县" code="101221502" />
+      <County name="寿县" code="101221503" />
+      <County name="金寨县" code="101221505" />
+      <County name="霍山县" code="101221506" />
+      <County name="舒城县" code="101221507" />
+    </City>
+    <City name="巢湖市">
+      <County name="巢湖市" code="101221601" />
+      <County name="庐江县" code="101221602" />
+      <County name="无为县" code="101221603" />
+      <County name="含山县" code="101221604" />
+      <County name="和县" code="101221605" />
+    </City>
+    <City name="池州市">
+      <County name="池州市" code="101221701" />
+      <County name="东至县" code="101221702" />
+      <County name="青阳县" code="101221703" />
+      <County name="九华山" code="101221704" />
+      <County name="石台县" code="101221705" />
+    </City>
+  </Province>
+  <Province name="福建省">
+    <City name="福州市">
+      <County name="福州市" code="101230101" />
+      <County name="闽清县" code="101230102" />
+      <County name="闽侯县" code="101230103" />
+      <County name="罗源县" code="101230104" />
+      <County name="连江县" code="101230105" />
+      <County name="永泰县" code="101230107" />
+      <County name="平潭县" code="101230108" />
+      <County name="长乐市" code="101230110" />
+      <County name="福清市" code="101230111" />
+    </City>
+    <City name="厦门市">
+      <County name="厦门市" code="101230201" />
+      <County name="同安区" code="101230202" />
+    </City>
+    <City name="宁德市">
+      <County name="宁德市" code="101230301" />
+      <County name="古田县" code="101230302" />
+      <County name="霞浦县" code="101230303" />
+      <County name="寿宁县" code="101230304" />
+      <County name="周宁县" code="101230305" />
+      <County name="福安市" code="101230306" />
+      <County name="柘荣县" code="101230307" />
+      <County name="福鼎市" code="101230308" />
+      <County name="屏南县" code="101230309" />
+    </City>
+    <City name="莆田市">
+      <County name="莆田市" code="101230401" />
+      <County name="仙游县" code="101230402" />
+      <County name="秀屿港" code="101230403" />
+      <County name="涵江区" code="101230404" />
+      <County name="秀屿区" code="101230405" />
+      <County name="荔城区" code="101230406" />
+      <County name="城厢区" code="101230407" />
+    </City>
+    <City name="泉州市">
+      <County name="泉州市" code="101230501" />
+      <County name="安溪县" code="101230502" />
+      <County name="永春县" code="101230504" />
+      <County name="德化县" code="101230505" />
+      <County name="南安市" code="101230506" />
+      <County name="崇武" code="101230507" />
+      <County name="惠安县" code="101230508" />
+      <County name="晋江市" code="101230509" />
+      <County name="石狮市" code="101230510" />
+    </City>
+    <City name="漳州市">
+      <County name="漳州市" code="101230601" />
+      <County name="长泰县" code="101230602" />
+      <County name="南靖县" code="101230603" />
+      <County name="平和县" code="101230604" />
+      <County name="龙海市" code="101230605" />
+      <County name="漳浦县" code="101230606" />
+      <County name="诏安县" code="101230607" />
+      <County name="东山县" code="101230608" />
+      <County name="云霄县" code="101230609" />
+      <County name="华安县" code="101230610" />
+    </City>
+    <City name="龙岩市">
+      <County name="龙岩市" code="101230701" />
+      <County name="长汀县" code="101230702" />
+      <County name="连城县" code="101230703" />
+      <County name="武平县" code="101230704" />
+      <County name="上杭县" code="101230705" />
+      <County name="永定县" code="101230706" />
+      <County name="漳平市" code="101230707" />
+    </City>
+    <City name="三明市">
+      <County name="三明市" code="101230801" />
+      <County name="宁化县" code="101230802" />
+      <County name="清流县" code="101230803" />
+      <County name="泰宁县" code="101230804" />
+      <County name="将乐县" code="101230805" />
+      <County name="建宁县" code="101230806" />
+      <County name="明溪县" code="101230807" />
+      <County name="沙县" code="101230808" />
+      <County name="尤溪县" code="101230809" />
+      <County name="永安市" code="101230810" />
+      <County name="大田县" code="101230811" />
+    </City>
+    <City name="南平市">
+      <County name="南平市" code="101230901" />
+      <County name="顺昌县" code="101230902" />
+      <County name="光泽县" code="101230903" />
+      <County name="邵武市" code="101230904" />
+      <County name="武夷山市" code="101230905" />
+      <County name="浦城县" code="101230906" />
+      <County name="建阳市" code="101230907" />
+      <County name="松溪县" code="101230908" />
+      <County name="政和县" code="101230909" />
+      <County name="建瓯市" code="101230910" />
+    </City>
+  </Province>
+  <Province name="江西省">
+    <City name="南昌市">
+      <County name="南昌市" code="101240101" />
+      <County name="新建县" code="101240102" />
+      <County name="南昌县" code="101240103" />
+      <County name="安义县" code="101240104" />
+      <County name="进贤县" code="101240105" />
+    </City>
+    <City name="九江市">
+      <County name="九江市" code="101240201" />
+      <County name="瑞昌市" code="101240202" />
+      <County name="庐山区" code="101240203" />
+      <County name="武宁县" code="101240204" />
+      <County name="德安县" code="101240205" />
+      <County name="永修县" code="101240206" />
+      <County name="湖口县" code="101240207" />
+      <County name="彭县泽" code="101240208" />
+      <County name="星子县" code="101240209" />
+      <County name="都昌县" code="101240210" />
+      <County name="修水县" code="101240212" />
+    </City>
+    <City name="上饶市">
+      <County name="上饶市" code="101240301" />
+      <County name="鄱阳县" code="101240302" />
+      <County name="婺源县" code="101240303" />
+      <County name="余干县" code="101240305" />
+      <County name="万年县" code="101240306" />
+      <County name="德兴市" code="101240307" />
+      <County name="上饶县" code="101240308" />
+      <County name="弋阳县" code="101240309" />
+      <County name="横峰县" code="101240310" />
+      <County name="铅山县" code="101240311" />
+      <County name="玉山县" code="101240312" />
+      <County name="广丰县" code="101240313" />
+    </City>
+    <City name="抚州市">
+      <County name="抚州市" code="101240401" />
+      <County name="广昌县" code="101240402" />
+      <County name="乐安县" code="101240403" />
+      <County name="崇仁县" code="101240404" />
+      <County name="金溪县" code="101240405" />
+      <County name="资溪县" code="101240406" />
+      <County name="宜黄县" code="101240407" />
+      <County name="南城县" code="101240408" />
+      <County name="南丰县" code="101240409" />
+      <County name="黎川县" code="101240410" />
+      <County name="东乡县" code="101240411" />
+    </City>
+    <City name="宜春市">
+      <County name="宜春市" code="101240501" />
+      <County name="铜鼓县" code="101240502" />
+      <County name="宜丰县" code="101240503" />
+      <County name="万载县" code="101240504" />
+      <County name="上高县" code="101240505" />
+      <County name="靖安县" code="101240506" />
+      <County name="奉新县" code="101240507" />
+      <County name="高安市" code="101240508" />
+      <County name="樟树市" code="101240509" />
+      <County name="丰城市" code="101240510" />
+    </City>
+    <City name="吉安市">
+      <County name="吉安市" code="101240601" />
+      <County name="吉安县" code="101240602" />
+      <County name="吉水县" code="101240603" />
+      <County name="新干县" code="101240604" />
+      <County name="峡江县" code="101240605" />
+      <County name="永丰县" code="101240606" />
+      <County name="永新县" code="101240607" />
+      <County name="井冈山市" code="101240608" />
+      <County name="万安县" code="101240609" />
+      <County name="遂川县" code="101240610" />
+      <County name="泰和县" code="101240611" />
+      <County name="安福县" code="101240612" />
+      <County name="宁冈县" code="101240613" />
+    </City>
+    <City name="赣州市">
+      <County name="赣州市" code="101240701" />
+      <County name="崇义县" code="101240702" />
+      <County name="上犹县" code="101240703" />
+      <County name="南康市" code="101240704" />
+      <County name="大余县" code="101240705" />
+      <County name="信丰县" code="101240706" />
+      <County name="宁都县" code="101240707" />
+      <County name="石城县" code="101240708" />
+      <County name="瑞金市" code="101240709" />
+      <County name="于都县" code="101240710" />
+      <County name="会昌县" code="101240711" />
+      <County name="安远县" code="101240712" />
+      <County name="全南县" code="101240713" />
+      <County name="龙南县" code="101240714" />
+      <County name="定南县" code="101240715" />
+      <County name="寻乌县" code="101240716" />
+      <County name="兴国县" code="101240717" />
+      <County name="赣县" code="101240718" />
+    </City>
+    <City name="景德镇市">
+      <County name="景德镇市" code="101240801" />
+      <County name="乐平市" code="101240802" />
+      <County name="浮梁县" code="101240803" />
+    </City>
+    <City name="萍乡市">
+      <County name="萍乡市" code="101240901" />
+      <County name="莲花县" code="101240902" />
+      <County name="上栗县" code="101240903" />
+      <County name="安源区" code="101240904" />
+      <County name="芦溪县" code="101240905" />
+      <County name="湘东区" code="101240906" />
+    </City>
+    <City name="新余市">
+      <County name="新余市" code="101241001" />
+      <County name="分宜县" code="101241002" />
+    </City>
+    <City name="鹰潭市">
+      <County name="鹰潭市" code="101241101" />
+      <County name="余江县" code="101241102" />
+      <County name="贵溪市" code="101241103" />
+    </City>
+  </Province>
+  <Province name="湖南省">
+    <City name="长沙市">
+      <County name="长沙市" code="101250101" />
+      <County name="宁乡县" code="101250102" />
+      <County name="浏阳市" code="101250103" />
+      <County name="马坡岭" code="101250104" />
+      <County name="望城县" code="101250105" />
+    </City>
+    <City name="湘潭市">
+      <County name="湘潭市" code="101250201" />
+      <County name="韶山市" code="101250202" />
+      <County name="湘乡市" code="101250203" />
+    </City>
+    <City name="株洲市">
+      <County name="株洲市" code="101250301" />
+      <County name="攸县" code="101250302" />
+      <County name="醴陵市" code="101250303" />
+      <County name="茶陵县" code="101250305" />
+      <County name="炎陵县" code="101250306" />
+    </City>
+    <City name="衡阳市">
+      <County name="衡阳市" code="101250401" />
+      <County name="衡山县" code="101250402" />
+      <County name="衡东县" code="101250403" />
+      <County name="祁东县" code="101250404" />
+      <County name="衡阳县" code="101250405" />
+      <County name="常宁市" code="101250406" />
+      <County name="衡南县" code="101250407" />
+      <County name="耒阳市" code="101250408" />
+      <County name="南岳县" code="101250409" />
+    </City>
+    <City name="郴州市">
+      <County name="郴州市" code="101250501" />
+      <County name="桂阳县" code="101250502" />
+      <County name="嘉禾县" code="101250503" />
+      <County name="宜章县" code="101250504" />
+      <County name="临武县" code="101250505" />
+      <County name="资兴市" code="101250507" />
+      <County name="汝城县" code="101250508" />
+      <County name="安仁县" code="101250509" />
+      <County name="永兴县" code="101250510" />
+      <County name="桂东县" code="101250511" />
+      <County name="苏仙区" code="101250512" />
+    </City>
+    <City name="常德市">
+      <County name="常德市" code="101250601" />
+      <County name="安乡县" code="101250602" />
+      <County name="桃源县" code="101250603" />
+      <County name="汉寿县" code="101250604" />
+      <County name="澧县" code="101250605" />
+      <County name="临澧县" code="101250606" />
+      <County name="石门县" code="101250607" />
+      <County name="津市市" code="101250608" />
+    </City>
+    <City name="益阳市">
+      <County name="益阳市" code="101250700" />
+      <County name="赫山区" code="101250701" />
+      <County name="南县" code="101250702" />
+      <County name="桃江县" code="101250703" />
+      <County name="安化县" code="101250704" />
+      <County name="沅江市" code="101250705" />
+    </City>
+    <City name="娄底市">
+      <County name="娄底市" code="101250801" />
+      <County name="双峰县" code="101250802" />
+      <County name="冷水江市" code="101250803" />
+      <County name="新化县" code="101250805" />
+      <County name="涟源市" code="101250806" />
+    </City>
+    <City name="邵阳市">
+      <County name="邵阳市" code="101250901" />
+      <County name="隆回县" code="101250902" />
+      <County name="洞口县" code="101250903" />
+      <County name="新邵县" code="101250904" />
+      <County name="邵东县" code="101250905" />
+      <County name="绥宁县" code="101250906" />
+      <County name="新宁县" code="101250907" />
+      <County name="武冈市" code="101250908" />
+      <County name="城步县" code="101250909" />
+      <County name="邵阳县" code="101250910" />
+    </City>
+    <City name="岳阳市">
+      <County name="岳阳市" code="101251001" />
+      <County name="华容县" code="101251002" />
+      <County name="湘阴县" code="101251003" />
+      <County name="汨罗市" code="101251004" />
+      <County name="平江县" code="101251005" />
+      <County name="临湘市" code="101251006" />
+    </City>
+    <City name="张家界市">
+      <County name="张家界市" code="101251101" />
+      <County name="桑植县" code="101251102" />
+      <County name="慈利县" code="101251103" />
+      <County name="武陵源区" code="101251104" />
+    </City>
+    <City name="怀化市">
+      <County name="怀化市" code="101251201" />
+      <County name="沅陵县" code="101251203" />
+      <County name="辰溪县" code="101251204" />
+      <County name="靖州县" code="101251205" />
+      <County name="会同县" code="101251206" />
+      <County name="通道县" code="101251207" />
+      <County name="麻阳县" code="101251208" />
+      <County name="新晃县" code="101251209" />
+      <County name="芷江县" code="101251210" />
+      <County name="溆浦县" code="101251211" />
+      <County name="中方县" code="101251212" />
+      <County name="洪江市" code="101251213" />
+    </City>
+    <City name="永州市">
+      <County name="永州市" code="101251401" />
+      <County name="祁阳县" code="101251402" />
+      <County name="东安县" code="101251403" />
+      <County name="双牌县" code="101251404" />
+      <County name="道县" code="101251405" />
+      <County name="宁远县" code="101251406" />
+      <County name="江永县" code="101251407" />
+      <County name="蓝山县" code="101251408" />
+      <County name="新田县" code="101251409" />
+      <County name="江华县" code="101251410" />
+      <County name="冷水滩区" code="101251411" />
+    </City>
+    <City name="吉首市">
+      <County name="吉首市" code="101251501" />
+      <County name="保靖县" code="101251502" />
+      <County name="永顺县" code="101251503" />
+      <County name="古丈县" code="101251504" />
+      <County name="凤凰县" code="101251505" />
+      <County name="泸溪县" code="101251506" />
+      <County name="龙山县" code="101251507" />
+      <County name="花垣县" code="101251508" />
+    </City>
+  </Province>
+  <Province name="贵州省">
+    <City name="贵阳市">
+      <County name="贵阳市" code="101260101" />
+      <County name="白云区" code="101260102" />
+      <County name="花溪区" code="101260103" />
+      <County name="乌当区" code="101260104" />
+      <County name="息烽县" code="101260105" />
+      <County name="开阳县" code="101260106" />
+      <County name="修文县" code="101260107" />
+      <County name="清镇市" code="101260108" />
+      <County name="小河区" code="101260109" />
+      <County name="云岩区" code="101260110" />
+      <County name="南明区" code="101260111" />
+    </City>
+    <City name="遵义市">
+      <County name="遵义市" code="101260201" />
+      <County name="遵义县" code="101260202" />
+      <County name="仁怀市" code="101260203" />
+      <County name="绥阳县" code="101260204" />
+      <County name="湄潭县" code="101260205" />
+      <County name="凤冈县" code="101260206" />
+      <County name="桐梓县" code="101260207" />
+      <County name="赤水市" code="101260208" />
+      <County name="习水县" code="101260209" />
+      <County name="道真县" code="101260210" />
+      <County name="正安县" code="101260211" />
+      <County name="务川县" code="101260212" />
+      <County name="余庆县" code="101260213" />
+      <County name="汇川县" code="101260214" />
+      <County name="红花岗" code="101260215" />
+    </City>
+    <City name="安顺市">
+      <County name="安顺市" code="101260301" />
+      <County name="普定县" code="101260302" />
+      <County name="镇宁县" code="101260303" />
+      <County name="平坝县" code="101260304" />
+      <County name="紫云县" code="101260305" />
+      <County name="关岭县" code="101260306" />
+    </City>
+    <City name="都匀市">
+      <County name="都匀市" code="101260401" />
+      <County name="贵定县" code="101260402" />
+      <County name="瓮安县" code="101260403" />
+      <County name="长顺县" code="101260404" />
+      <County name="福泉市" code="101260405" />
+      <County name="惠水县" code="101260406" />
+      <County name="龙里县" code="101260407" />
+      <County name="罗甸县" code="101260408" />
+      <County name="平塘县" code="101260409" />
+      <County name="独山县" code="101260410" />
+      <County name="三都县" code="101260411" />
+      <County name="荔波县" code="101260412" />
+    </City>
+    <City name="凯里市">
+      <County name="凯里市" code="101260501" />
+      <County name="岑巩县" code="101260502" />
+      <County name="施秉县" code="101260503" />
+      <County name="镇远县" code="101260504" />
+      <County name="黄平县" code="101260505" />
+      <County name="麻江县" code="101260507" />
+      <County name="丹寨县" code="101260508" />
+      <County name="三穗县" code="101260509" />
+      <County name="台江县" code="101260510" />
+      <County name="剑河县" code="101260511" />
+      <County name="雷山县" code="101260512" />
+      <County name="黎平县" code="101260513" />
+      <County name="天柱县" code="101260514" />
+      <County name="锦屏县" code="101260515" />
+      <County name="榕江县" code="101260516" />
+      <County name="从江县" code="101260517" />
+    </City>
+    <City name="铜仁市">
+      <County name="铜仁市" code="101260601" />
+      <County name="江口县" code="101260602" />
+      <County name="玉屏县" code="101260603" />
+      <County name="万山县" code="101260604" />
+      <County name="思南县" code="101260605" />
+      <County name="印江县" code="101260607" />
+      <County name="石阡县" code="101260608" />
+      <County name="沿河县" code="101260609" />
+      <County name="德江县" code="101260610" />
+      <County name="松桃县" code="101260611" />
+    </City>
+    <City name="毕节市">
+      <County name="毕节市" code="101260701" />
+      <County name="赫章县" code="101260702" />
+      <County name="金沙县" code="101260703" />
+      <County name="威宁县" code="101260704" />
+      <County name="大方县" code="101260705" />
+      <County name="纳雍县" code="101260706" />
+      <County name="织金县" code="101260707" />
+      <County name="黔西县" code="101260708" />
+    </City>
+    <City name="水城">
+      <County name="水城" code="101260801" />
+      <County name="六枝" code="101260802" />
+      <County name="盘县" code="101260804" />
+    </City>
+    <City name="兴义市">
+      <County name="兴义市" code="101260901" />
+      <County name="晴隆县" code="101260902" />
+      <County name="兴仁县" code="101260903" />
+      <County name="贞丰县" code="101260904" />
+      <County name="望谟县" code="101260905" />
+      <County name="安龙县" code="101260907" />
+      <County name="册亨县" code="101260908" />
+      <County name="普安县" code="101260909" />
+    </City>
+  </Province>
+  <Province name="四川省">
+    <City name="成都市">
+      <County name="成都市" code="101270101" />
+      <County name="龙泉驿区" code="101270102" />
+      <County name="新都县" code="101270103" />
+      <County name="温江区" code="101270104" />
+      <County name="金堂县" code="101270105" />
+      <County name="双流县" code="101270106" />
+      <County name="郫县" code="101270107" />
+      <County name="大邑县" code="101270108" />
+      <County name="蒲江县" code="101270109" />
+      <County name="新津县" code="101270110" />
+      <County name="都江堰市" code="101270111" />
+      <County name="彭州市" code="101270112" />
+      <County name="邛崃市" code="101270113" />
+      <County name="崇州市" code="101270114" />
+    </City>
+    <City name="攀枝花市">
+      <County name="攀枝花市" code="101270201" />
+      <County name="仁和区" code="101270202" />
+      <County name="米易县" code="101270203" />
+      <County name="盐边县" code="101270204" />
+    </City>
+    <City name="自贡市">
+      <County name="自贡市" code="101270301" />
+      <County name="富顺县" code="101270302" />
+      <County name="荣县" code="101270303" />
+    </City>
+    <City name="绵阳市">
+      <County name="绵阳市" code="101270401" />
+      <County name="三台县" code="101270402" />
+      <County name="盐亭县" code="101270403" />
+      <County name="安县" code="101270404" />
+      <County name="梓潼县" code="101270405" />
+      <County name="北川县" code="101270406" />
+      <County name="平武县" code="101270407" />
+      <County name="江油市" code="101270408" />
+    </City>
+    <City name="南充市">
+      <County name="南充市" code="101270501" />
+      <County name="南部县" code="101270502" />
+      <County name="营山县" code="101270503" />
+      <County name="蓬安县" code="101270504" />
+      <County name="仪陇县" code="101270505" />
+      <County name="西充县" code="101270506" />
+      <County name="阆中市" code="101270507" />
+    </City>
+    <City name="达州市">
+      <County name="达州市" code="101270601" />
+      <County name="宣汉县" code="101270602" />
+      <County name="开江县" code="101270603" />
+      <County name="大竹县" code="101270604" />
+      <County name="渠县" code="101270605" />
+      <County name="万源市" code="101270606" />
+      <County name="达川县" code="101270607" />
+      <County name="达县" code="101270608" />
+    </City>
+    <City name="遂宁市">
+      <County name="遂宁市" code="101270701" />
+      <County name="蓬溪县" code="101270702" />
+      <County name="射洪县" code="101270703" />
+    </City>
+    <City name="广安市">
+      <County name="广安市" code="101270801" />
+      <County name="岳池县" code="101270802" />
+      <County name="武胜县" code="101270803" />
+      <County name="邻水县" code="101270804" />
+      <County name="华蓥市" code="101270805" />
+    </City>
+    <City name="巴中市">
+      <County name="巴中市" code="101270901" />
+      <County name="通江县" code="101270902" />
+      <County name="南江县" code="101270903" />
+      <County name="平昌县" code="101270904" />
+    </City>
+    <City name="泸州市">
+      <County name="泸州市" code="101271001" />
+      <County name="泸县" code="101271003" />
+      <County name="合江县" code="101271004" />
+      <County name="叙永县" code="101271005" />
+      <County name="古蔺县" code="101271006" />
+      <County name="纳溪县" code="101271007" />
+    </City>
+    <City name="宜宾市">
+      <County name="宜宾市" code="101271101" />
+      <County name="宜宾县" code="101271103" />
+      <County name="南溪县" code="101271104" />
+      <County name="江安县" code="101271105" />
+      <County name="长宁县" code="101271106" />
+      <County name="高县" code="101271107" />
+      <County name="珙县" code="101271108" />
+      <County name="筠连县" code="101271109" />
+      <County name="兴文县" code="101271110" />
+      <County name="屏山县" code="101271111" />
+    </City>
+    <City name="内江市">
+      <County name="内江市" code="101271201" />
+      <County name="东兴区" code="101271202" />
+      <County name="威远县" code="101271203" />
+      <County name="资中县" code="101271204" />
+      <County name="隆昌县" code="101271205" />
+    </City>
+    <City name="资阳市">
+      <County name="资阳市" code="101271301" />
+      <County name="安岳县" code="101271302" />
+      <County name="乐至县" code="101271303" />
+      <County name="简阳市" code="101271304" />
+    </City>
+    <City name="乐山市">
+      <County name="乐山市" code="101271401" />
+      <County name="犍为县" code="101271402" />
+      <County name="井研县" code="101271403" />
+      <County name="夹江县" code="101271404" />
+      <County name="沐川县" code="101271405" />
+      <County name="峨边县" code="101271406" />
+      <County name="马边县" code="101271407" />
+      <County name="峨眉" code="101271408" />
+      <County name="峨眉山市" code="101271409" />
+    </City>
+    <City name="眉山市">
+      <County name="眉山市" code="101271501" />
+      <County name="仁寿县" code="101271502" />
+      <County name="彭山县" code="101271503" />
+      <County name="洪雅县" code="101271504" />
+      <County name="丹棱县" code="101271505" />
+      <County name="青神县" code="101271506" />
+    </City>
+    <City name="凉山">
+      <County name="凉山" code="101271601" />
+      <County name="木里县" code="101271603" />
+      <County name="盐源县" code="101271604" />
+      <County name="德昌县" code="101271605" />
+      <County name="会理县" code="101271606" />
+      <County name="会东县" code="101271607" />
+      <County name="宁南县" code="101271608" />
+      <County name="普格县" code="101271609" />
+      <County name="西昌市" code="101271610" />
+      <County name="金阳县" code="101271611" />
+      <County name="昭觉县" code="101271612" />
+      <County name="喜德县" code="101271613" />
+      <County name="冕宁县" code="101271614" />
+      <County name="越西县" code="101271615" />
+      <County name="甘洛县" code="101271616" />
+      <County name="雷波县" code="101271617" />
+      <County name="美姑县" code="101271618" />
+      <County name="布拖县" code="101271619" />
+    </City>
+    <City name="雅安市">
+      <County name="雅安市" code="101271701" />
+      <County name="名山县" code="101271702" />
+      <County name="荥经县" code="101271703" />
+      <County name="汉源县" code="101271704" />
+      <County name="石棉县" code="101271705" />
+      <County name="天全县" code="101271706" />
+      <County name="芦山县" code="101271707" />
+      <County name="宝兴县" code="101271708" />
+    </City>
+    <City name="甘孜县">
+      <County name="甘孜县" code="101271801" />
+      <County name="康定县" code="101271802" />
+      <County name="泸定县" code="101271803" />
+      <County name="丹巴县" code="101271804" />
+      <County name="九龙县" code="101271805" />
+      <County name="雅江县" code="101271806" />
+      <County name="道孚县" code="101271807" />
+      <County name="炉霍县" code="101271808" />
+      <County name="新龙县" code="101271809" />
+      <County name="德格县" code="101271810" />
+      <County name="白玉县" code="101271811" />
+      <County name="石渠县" code="101271812" />
+      <County name="色达县" code="101271813" />
+      <County name="理塘县" code="101271814" />
+      <County name="巴塘县" code="101271815" />
+      <County name="乡城县" code="101271816" />
+      <County name="稻城县" code="101271817" />
+      <County name="得荣县" code="101271818" />
+    </City>
+    <City name="阿坝县">
+      <County name="阿坝县" code="101271901" />
+      <County name="汶川县" code="101271902" />
+      <County name="理县" code="101271903" />
+      <County name="茂县" code="101271904" />
+      <County name="松潘县" code="101271905" />
+      <County name="九寨沟县" code="101271906" />
+      <County name="金川县" code="101271907" />
+      <County name="小金县" code="101271908" />
+      <County name="黑水县" code="101271909" />
+      <County name="马尔康县" code="101271910" />
+      <County name="壤塘县" code="101271911" />
+      <County name="若尔盖县" code="101271912" />
+      <County name="红原县" code="101271913" />
+    </City>
+    <City name="德阳市">
+      <County name="德阳市" code="101272001" />
+      <County name="中江县" code="101272002" />
+      <County name="广汉市" code="101272003" />
+      <County name="什邡市" code="101272004" />
+      <County name="绵竹市" code="101272005" />
+      <County name="罗江县" code="101272006" />
+    </City>
+    <City name="广元市">
+      <County name="广元市" code="101272101" />
+      <County name="旺苍县" code="101272102" />
+      <County name="青川县" code="101272103" />
+      <County name="剑阁县" code="101272104" />
+      <County name="苍溪县" code="101272105" />
+    </City>
+  </Province>
+  <Province name="广东省">
+    <City name="广州市">
+      <County name="广州市" code="101280101" />
+      <County name="番禺区" code="101280102" />
+      <County name="从化市" code="101280103" />
+      <County name="增城市" code="101280104" />
+      <County name="花都区" code="101280105" />
+    </City>
+    <City name="韶关">
+      <County name="韶关" code="101280201" />
+      <County name="乳源县" code="101280202" />
+      <County name="始兴县" code="101280203" />
+      <County name="翁源县" code="101280204" />
+      <County name="乐昌市" code="101280205" />
+      <County name="仁化县" code="101280206" />
+      <County name="南雄市" code="101280207" />
+      <County name="新丰县" code="101280208" />
+      <County name="曲江区" code="101280209" />
+      <County name="浈江区" code="101280210" />
+      <County name="武江区" code="101280211" />
+    </City>
+    <City name="惠州市">
+      <County name="惠州市" code="101280301" />
+      <County name="博罗县" code="101280302" />
+      <County name="惠阳市" code="101280303" />
+      <County name="惠东县" code="101280304" />
+      <County name="龙门县" code="101280305" />
+    </City>
+    <City name="梅州市">
+      <County name="梅州市" code="101280401" />
+      <County name="兴宁市" code="101280402" />
+      <County name="蕉岭县" code="101280403" />
+      <County name="大埔县" code="101280404" />
+      <County name="丰顺县" code="101280406" />
+      <County name="平远县" code="101280407" />
+      <County name="五华县" code="101280408" />
+      <County name="梅县" code="101280409" />
+    </City>
+    <City name="汕头市">
+      <County name="汕头市" code="101280501" />
+      <County name="潮阳区" code="101280502" />
+      <County name="澄海区" code="101280503" />
+      <County name="南澳县" code="101280504" />
+    </City>
+    <City name="深圳市">
+      <County name="深圳市" code="101280601" />
+    </City>
+    <City name="珠海市">
+      <County name="珠海市" code="101280701" />
+      <County name="斗门区" code="101280702" />
+      <County name="金湾区" code="101280703" />
+    </City>
+    <City name="佛山市">
+      <County name="佛山市" code="101280800" />
+      <County name="顺德市" code="101280801" />
+      <County name="三水市" code="101280802" />
+      <County name="南海市" code="101280803" />
+      <County name="高明市" code="101280804" />
+    </City>
+    <City name="肇庆市">
+      <County name="肇庆市" code="101280901" />
+      <County name="广宁县" code="101280902" />
+      <County name="四会市" code="101280903" />
+      <County name="德庆县" code="101280905" />
+      <County name="怀集县" code="101280906" />
+      <County name="封开县" code="101280907" />
+      <County name="高要市" code="101280908" />
+    </City>
+    <City name="湛江市">
+      <County name="湛江市" code="101281001" />
+      <County name="吴川市" code="101281002" />
+      <County name="雷州市" code="101281003" />
+      <County name="徐闻县" code="101281004" />
+      <County name="廉江市" code="101281005" />
+      <County name="赤坎区" code="101281006" />
+      <County name="遂溪县" code="101281007" />
+      <County name="坡头区" code="101281008" />
+      <County name="霞山区" code="101281009" />
+      <County name="麻章区" code="101281010" />
+    </City>
+    <City name="江门市">
+      <County name="江门市" code="101281101" />
+      <County name="开平市" code="101281103" />
+      <County name="新会" code="101281104" />
+      <County name="恩平市" code="101281105" />
+      <County name="台山市" code="101281106" />
+      <County name="蓬江" code="101281107" />
+      <County name="鹤山市" code="101281108" />
+      <County name="江海" code="101281109" />
+    </City>
+    <City name="河源市">
+      <County name="河源市" code="101281201" />
+      <County name="紫金县" code="101281202" />
+      <County name="连平县" code="101281203" />
+      <County name="和平县" code="101281204" />
+      <County name="龙川县" code="101281205" />
+      <County name="东源县" code="101281206" />
+    </City>
+    <City name="清远市">
+      <County name="清远市" code="101281301" />
+      <County name="连南县" code="101281302" />
+      <County name="连州市" code="101281303" />
+      <County name="连山县" code="101281304" />
+      <County name="阳山县" code="101281305" />
+      <County name="佛冈县" code="101281306" />
+      <County name="英德市" code="101281307" />
+      <County name="清新县" code="101281308" />
+    </City>
+    <City name="云浮市">
+      <County name="云浮市" code="101281401" />
+      <County name="罗定市" code="101281402" />
+      <County name="新兴县" code="101281403" />
+      <County name="郁南县" code="101281404" />
+      <County name="云安县" code="101281406" />
+    </City>
+    <City name="潮州市">
+      <County name="潮州市" code="101281501" />
+      <County name="饶平县" code="101281502" />
+      <County name="潮安县" code="101281503" />
+    </City>
+    <City name="东莞市">
+      <County name="东莞市" code="101281601" />
+    </City>
+    <City name="中山市">
+      <County name="中山市" code="101281701" />
+    </City>
+    <City name="阳江市">
+      <County name="阳江市" code="101281801" />
+      <County name="阳春市" code="101281802" />
+      <County name="阳东县" code="101281803" />
+      <County name="阳西县" code="101281804" />
+    </City>
+    <City name="揭阳市">
+      <County name="揭阳市" code="101281901" />
+      <County name="揭西县" code="101281902" />
+      <County name="普宁市" code="101281903" />
+      <County name="惠来县" code="101281904" />
+      <County name="揭东县" code="101281905" />
+    </City>
+    <City name="茂名市">
+      <County name="茂名市" code="101282001" />
+      <County name="高州市" code="101282002" />
+      <County name="化州市" code="101282003" />
+      <County name="电白县" code="101282004" />
+      <County name="信宜市" code="101282005" />
+      <County name="茂港区" code="101282006" />
+    </City>
+    <City name="汕尾市">
+      <County name="汕尾市" code="101282101" />
+      <County name="海丰县" code="101282102" />
+      <County name="陆丰市" code="101282103" />
+      <County name="陆河县" code="101282104" />
+    </City>
+  </Province>
+  <Province name="云南省">
+    <City name="昆明市">
+      <County name="昆明市" code="101290101" />
+      <County name="东川区" code="101290103" />
+      <County name="寻甸县" code="101290104" />
+      <County name="晋宁县" code="101290105" />
+      <County name="宜良县" code="101290106" />
+      <County name="石林县" code="101290107" />
+      <County name="呈贡区" code="101290108" />
+      <County name="富民县" code="101290109" />
+      <County name="嵩明县" code="101290110" />
+      <County name="禄劝县" code="101290111" />
+      <County name="安宁市" code="101290112" />
+      <County name="太华山" code="101290113" />
+    </City>
+    <City name="大理市">
+      <County name="大理市" code="101290201" />
+      <County name="云龙县" code="101290202" />
+      <County name="漾濞县" code="101290203" />
+      <County name="永平县" code="101290204" />
+      <County name="宾川县" code="101290205" />
+      <County name="弥渡县" code="101290206" />
+      <County name="祥云县" code="101290207" />
+      <County name="巍山县" code="101290208" />
+      <County name="剑川县" code="101290209" />
+      <County name="洱源县" code="101290210" />
+      <County name="鹤庆县" code="101290211" />
+      <County name="南涧县" code="101290212" />
+    </City>
+    <City name="红河县">
+      <County name="红河县" code="101290301" />
+      <County name="石屏县" code="101290302" />
+      <County name="建水县" code="101290303" />
+      <County name="弥勒县" code="101290304" />
+      <County name="元阳县" code="101290305" />
+      <County name="绿春县" code="101290306" />
+      <County name="开远市" code="101290307" />
+      <County name="个旧市" code="101290308" />
+      <County name="蒙自市" code="101290309" />
+      <County name="屏边县" code="101290310" />
+      <County name="泸西县" code="101290311" />
+      <County name="金平县" code="101290312" />
+      <County name="河口县" code="101290313" />
+    </City>
+    <City name="曲靖市">
+      <County name="曲靖市" code="101290401" />
+      <County name="沾益县" code="101290402" />
+      <County name="陆良县" code="101290403" />
+      <County name="富源县" code="101290404" />
+      <County name="马龙县" code="101290405" />
+      <County name="师宗县" code="101290406" />
+      <County name="罗平县" code="101290407" />
+      <County name="会泽县" code="101290408" />
+      <County name="宣威市" code="101290409" />
+    </City>
+    <City name="保山市">
+      <County name="保山市" code="101290501" />
+      <County name="龙陵县" code="101290503" />
+      <County name="施甸县" code="101290504" />
+      <County name="昌宁县" code="101290505" />
+      <County name="腾冲县" code="101290506" />
+    </City>
+    <City name="文山市">
+      <County name="文山市" code="101290601" />
+      <County name="西畴县" code="101290602" />
+      <County name="马关县" code="101290603" />
+      <County name="麻栗坡县" code="101290604" />
+      <County name="砚山县" code="101290605" />
+      <County name="丘北县" code="101290606" />
+      <County name="广南县" code="101290607" />
+      <County name="富宁县" code="101290608" />
+    </City>
+    <City name="玉溪市">
+      <County name="玉溪市" code="101290701" />
+      <County name="澄江县" code="101290702" />
+      <County name="江川县" code="101290703" />
+      <County name="通海县" code="101290704" />
+      <County name="华宁县" code="101290705" />
+      <County name="新平县" code="101290706" />
+      <County name="易门县" code="101290707" />
+      <County name="峨山县" code="101290708" />
+      <County name="元江县" code="101290709" />
+    </City>
+    <City name="楚雄市">
+      <County name="楚雄市" code="101290801" />
+      <County name="大姚县" code="101290802" />
+      <County name="元谋县" code="101290803" />
+      <County name="姚安县" code="101290804" />
+      <County name="牟定县" code="101290805" />
+      <County name="南华县" code="101290806" />
+      <County name="武定县" code="101290807" />
+      <County name="禄丰县" code="101290808" />
+      <County name="双柏县" code="101290809" />
+      <County name="永仁县" code="101290810" />
+    </City>
+    <City name="普洱市">
+      <County name="普洱市" code="101290901" />
+      <County name="景谷县" code="101290902" />
+      <County name="景东县" code="101290903" />
+      <County name="澜沧县" code="101290904" />
+      <County name="墨江县" code="101290906" />
+      <County name="江城县" code="101290907" />
+      <County name="孟连县" code="101290908" />
+      <County name="西盟县" code="101290909" />
+      <County name="镇沅县" code="101290911" />
+      <County name="宁洱县" code="101290912" />
+    </City>
+    <City name="昭通市">
+      <County name="昭通市" code="101291001" />
+      <County name="鲁甸县" code="101291002" />
+      <County name="彝良县" code="101291003" />
+      <County name="镇雄县" code="101291004" />
+      <County name="威信县" code="101291005" />
+      <County name="巧家县" code="101291006" />
+      <County name="绥江县" code="101291007" />
+      <County name="永善县" code="101291008" />
+      <County name="盐津县" code="101291009" />
+      <County name="大关县" code="101291010" />
+      <County name="水富县" code="101291011" />
+    </City>
+    <City name="临沧市">
+      <County name="临沧市" code="101291101" />
+      <County name="沧源县" code="101291102" />
+      <County name="耿马县" code="101291103" />
+      <County name="双江县" code="101291104" />
+      <County name="凤庆县" code="101291105" />
+      <County name="永德县" code="101291106" />
+      <County name="云县" code="101291107" />
+      <County name="镇康县" code="101291108" />
+    </City>
+    <City name="怒江">
+      <County name="怒江" code="101291201" />
+      <County name="福贡县" code="101291203" />
+      <County name="兰坪县" code="101291204" />
+      <County name="泸水县" code="101291205" />
+      <County name="六库" code="101291206" />
+      <County name="贡山县" code="101291207" />
+    </City>
+    <City name="香格里拉县">
+      <County name="香格里拉县" code="101291301" />
+      <County name="德钦县" code="101291302" />
+      <County name="维西县" code="101291303" />
+      <County name="中甸县" code="101291304" />
+    </City>
+    <City name="丽江市">
+      <County name="丽江市" code="101291401" />
+      <County name="永胜县" code="101291402" />
+      <County name="华坪县" code="101291403" />
+      <County name="宁蒗县" code="101291404" />
+    </City>
+    <City name="德宏市">
+      <County name="德宏市" code="101291501" />
+      <County name="陇川县" code="101291503" />
+      <County name="盈江县" code="101291504" />
+      <County name="瑞丽市" code="101291506" />
+      <County name="梁河县" code="101291507" />
+      <County name="潞西市" code="101291508" />
+    </City>
+    <City name="景洪市">
+      <County name="景洪市" code="101291601" />
+      <County name="勐海县" code="101291603" />
+      <County name="勐腊县" code="101291605" />
+    </City>
+  </Province>
+  <Province name="广西省">
+    <City name="南宁市">
+      <County name="南宁市" code="101300101" />
+      <County name="邕宁区" code="101300103" />
+      <County name="横县" code="101300104" />
+      <County name="隆安县" code="101300105" />
+      <County name="马山县" code="101300106" />
+      <County name="上林县" code="101300107" />
+      <County name="武鸣县" code="101300108" />
+      <County name="宾阳县" code="101300109" />
+    </City>
+    <City name="崇左市">
+      <County name="崇左市" code="101300201" />
+      <County name="天等县" code="101300202" />
+      <County name="龙州县" code="101300203" />
+      <County name="凭祥市" code="101300204" />
+      <County name="大新县" code="101300205" />
+      <County name="扶绥县" code="101300206" />
+      <County name="宁明县" code="101300207" />
+    </City>
+    <City name="柳州市">
+      <County name="柳州市" code="101300301" />
+      <County name="柳城县" code="101300302" />
+      <County name="鹿寨县" code="101300304" />
+      <County name="柳江县" code="101300305" />
+      <County name="融安县" code="101300306" />
+      <County name="融水县" code="101300307" />
+      <County name="三江县" code="101300308" />
+    </City>
+    <City name="来宾市">
+      <County name="来宾市" code="101300401" />
+      <County name="忻城县" code="101300402" />
+      <County name="金秀县" code="101300403" />
+      <County name="象州县" code="101300404" />
+      <County name="武宣县" code="101300405" />
+      <County name="合山市" code="101300406" />
+    </City>
+    <City name="桂林市">
+      <County name="桂林市" code="101300501" />
+      <County name="龙胜县" code="101300503" />
+      <County name="永福县" code="101300504" />
+      <County name="临桂县" code="101300505" />
+      <County name="兴安县" code="101300506" />
+      <County name="灵川县" code="101300507" />
+      <County name="全州县" code="101300508" />
+      <County name="灌阳县" code="101300509" />
+      <County name="阳朔县" code="101300510" />
+      <County name="恭城县" code="101300511" />
+      <County name="平乐县" code="101300512" />
+      <County name="荔蒲县" code="101300513" />
+      <County name="资源县" code="101300514" />
+    </City>
+    <City name="梧州市">
+      <County name="梧州市" code="101300601" />
+      <County name="藤县" code="101300602" />
+      <County name="苍梧县" code="101300604" />
+      <County name="蒙山县" code="101300605" />
+      <County name="岑溪市" code="101300606" />
+    </City>
+    <City name="贺州市">
+      <County name="贺州市" code="101300701" />
+      <County name="昭平县" code="101300702" />
+      <County name="富川县" code="101300703" />
+      <County name="钟山县" code="101300704" />
+    </City>
+    <City name="贵港市">
+      <County name="贵港市" code="101300801" />
+      <County name="桂平市" code="101300802" />
+      <County name="平南县" code="101300803" />
+    </City>
+    <City name="玉林市">
+      <County name="玉林市" code="101300901" />
+      <County name="博白县" code="101300902" />
+      <County name="北流市" code="101300903" />
+      <County name="容县" code="101300904" />
+      <County name="陆川县" code="101300905" />
+      <County name="兴业县" code="101300906" />
+    </City>
+    <City name="百色市">
+      <County name="百色市" code="101301001" />
+      <County name="那坡县" code="101301002" />
+      <County name="田阳县" code="101301003" />
+      <County name="德保县" code="101301004" />
+      <County name="靖西县" code="101301005" />
+      <County name="田东县" code="101301006" />
+      <County name="平果县" code="101301007" />
+      <County name="隆林县" code="101301008" />
+      <County name="西林县" code="101301009" />
+      <County name="乐业县" code="101301010" />
+      <County name="凌云县" code="101301011" />
+      <County name="田林县" code="101301012" />
+    </City>
+    <City name="钦州市">
+      <County name="钦州市" code="101301101" />
+      <County name="浦北县" code="101301102" />
+      <County name="灵山县" code="101301103" />
+    </City>
+    <City name="河池市">
+      <County name="河池市" code="101301201" />
+      <County name="天峨县" code="101301202" />
+      <County name="东兰县" code="101301203" />
+      <County name="巴马县" code="101301204" />
+      <County name="环江县" code="101301205" />
+      <County name="罗城县" code="101301206" />
+      <County name="宜州市" code="101301207" />
+      <County name="凤山县" code="101301208" />
+      <County name="南丹县" code="101301209" />
+      <County name="都安县" code="101301210" />
+      <County name="大化县" code="101301211" />
+    </City>
+    <City name="北海市">
+      <County name="北海市" code="101301301" />
+      <County name="合浦县" code="101301302" />
+      <County name="涠洲岛" code="101301303" />
+    </City>
+    <City name="防城港市">
+      <County name="防城港市" code="101301401" />
+      <County name="上思县" code="101301402" />
+      <County name="东兴市" code="101301403" />
+      <County name="防城区" code="101301405" />
+    </City>
+  </Province>
+  <Province name="海南省">
+    <City name="海口市">
+      <County name="海口市" code="101310101" />
+    </City>
+    <City name="三亚市">
+      <County name="三亚市" code="101310201" />
+      <County name="东方市" code="101310202" />
+      <County name="临高县" code="101310203" />
+      <County name="澄迈县" code="101310204" />
+      <County name="儋州市" code="101310205" />
+      <County name="昌江县" code="101310206" />
+      <County name="白沙县" code="101310207" />
+      <County name="琼中县" code="101310208" />
+      <County name="定安县" code="101310209" />
+      <County name="屯昌县" code="101310210" />
+      <County name="琼海市" code="101310211" />
+      <County name="文昌市" code="101310212" />
+      <County name="保亭县" code="101310214" />
+      <County name="万宁市" code="101310215" />
+      <County name="陵水县" code="101310216" />
+      <County name="西沙" code="101310217" />
+      <County name="南沙岛" code="101310220" />
+      <County name="乐东县" code="101310221" />
+      <County name="五指山市" code="101310222" />
+    </City>
+  </Province>
+  <Province name="香港特别行政区">
+    <City name="香港">
+      <County name="香港" code="101320101" />
+      <County name="新界" code="101320103" />
+    </City>
+  </Province>
+  <Province name="澳门特别行政区">
+    <City name="澳门">
+      <County name="澳门" code="101330101" />
+      <County name="氹仔岛" code="101330102" />
+      <County name="路环岛" code="101330103" />
+    </City>
+  </Province>
+  <Province name="钓鱼岛">
+    <City name="钓鱼岛">
+      <County name="钓鱼岛" code="101231001" />
+    </City>
+  </Province>
+  <Province name="台湾省">
+    <City name="台北市">
+      <County name="台北市" code="101340101" />
+      <County name="桃园县" code="101340102" />
+      <County name="新竹市" code="101340103" />
+      <County name="宜兰县" code="101340104" />
+    </City>
+    <City name="高雄市">
+      <County name="高雄市" code="101340201" />
+      <County name="嘉义市" code="101340202" />
+      <County name="台南市" code="101340203" />
+      <County name="台东县" code="101340204" />
+      <County name="屏东县" code="101340205" />
+    </City>
+    <City name="台中市">
+      <County name="台中市" code="101340401" />
+      <County name="苗栗县" code="101340402" />
+      <County name="彰化县" code="101340403" />
+      <County name="南投县" code="101340404" />
+      <County name="花莲县" code="101340405" />
+      <County name="云林县" code="101340406" />
+    </City>
+  </Province>
+  </Country>
+</channel><!-- From: file:/F:/Android开发/MyWeather/res/xml/channel.xml -->

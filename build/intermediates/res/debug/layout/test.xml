@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    tools:context=".view.Test" >
+    <android.support.v4.widget.DrawerLayout
+        android:id="@+id/test_drawer_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <RelativeLayout
+            android:id="@+id/content_frame"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" 
+            android:background="@color/yellow">
+
+            <Button
+                android:id="@+id/test_btn2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="24dp"
+                android:layout_marginTop="44dp"
+                android:background="@drawable/qipao3"
+                android:text="test_btn2" />
+
+            <Button
+                android:id="@+id/test_btn3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="64dp"
+                android:layout_marginTop="154dp"
+                android:background="@drawable/qipao2"
+                android:text="test_btn3" />
+
+            <Button
+                android:id="@+id/test_btnLeft"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="124dp"
+                android:layout_marginTop="244dp"
+                android:background="@drawable/qipao"
+                android:text="Leftopen" />
+
+            <Button
+                android:id="@+id/button1"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:layout_below="@+id/test_btnLeft"
+                android:layout_toRightOf="@+id/test_btn2"
+                android:text="day" 
+                android:background="@drawable/aaa"/>
+
+        </RelativeLayout>
+
+        <!-- The navigation drawer -->
+        <!-- android:layout_gravity决定起始位置 -->
+
+        <RelativeLayout
+            android:id="@+id/test_left_drawer"
+            android:layout_width="240dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="left"
+            android:background="#FFBBFF"
+            android:choiceMode="singleChoice"
+            android:divider="@android:color/transparent"
+            android:dividerHeight="0dp" >
+
+          
+           <ListView
+                android:id="@+id/test_left_list"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_above="@+id/test_left_swith">
+            </ListView>
+             <Button
+                android:id="@+id/test_left_swith"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="swith" 
+                android:layout_alignParentBottom="true"/>
+        </RelativeLayout>
+
+        <!--
+        <Button 
+            android:id="@+id/test_left_swith"
+            android:layout_width="240dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="left"
+            android:background="#FFBBFF"
+            android:text="swith"
+            android:divider="@android:color/transparent"
+            android:dividerHeight="0dp" 
+            />
+        <ListView
+            android:id="@+id/test_left_drawer"
+            android:layout_width="240dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="left"
+            android:background="#FFBBFF"
+            android:choiceMode="singleChoice"
+            android:divider="@android:color/transparent"
+            android:dividerHeight="0dp" />
+         <ListView
+            android:id="@+id/test_right_drawer"
+            android:layout_width="240dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="right"
+            android:background="#111111"
+            android:choiceMode="singleChoice"
+            android:divider="@android:color/transparent"
+            android:dividerHeight="0dp" />
+        -->
+    </android.support.v4.widget.DrawerLayout>
+
+</RelativeLayout><!-- From: file:/F:/Android开发/MyWeather/res/layout/test.xml -->

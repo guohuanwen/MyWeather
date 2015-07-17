@@ -1,0 +1,1 @@
+{"weatherinfo":{"city":"±±æ©","cityid":"101010100","temp1":"15°Ê","temp2":"5°Ê","weather":"∂‡‘∆","img1":"d1.gif","img2":"n1.gif","ptime":"08:00"}}

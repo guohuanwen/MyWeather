@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    tools:context="com.bcgtgjyb.myweather.view.Test" >
+        <RelativeLayout
+            android:id="@+id/content_frame"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" 
+            android:background="@color/Myyellow">
+
+            <!-- <Button
+                android:id="@+id/test_btn2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="24dp"
+                android:layout_marginTop="44dp"
+                android:background="@drawable/qipao3"
+                android:text="test_btn2" />
+
+            <Button
+                android:id="@+id/test_btn3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="64dp"
+                android:layout_marginTop="154dp"
+                android:background="@drawable/qipao2"
+                android:text="test_btn3" />
+
+            <Button
+                android:id="@+id/test_btnLeft"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="124dp"
+                android:layout_marginTop="244dp"
+                android:background="@drawable/qipao"
+                android:text="Leftopen" />
+
+            <Button
+                android:id="@+id/button1"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:layout_below="@+id/test_btnLeft"
+                android:layout_toRightOf="@+id/test_btn2"
+                android:text="day" 
+                android:background="@drawable/aaa"/> -->
+
+        </RelativeLayout>
+        <!-- The navigation drawer -->
+        <!-- android:layout_gravity决定起始位置 -->
+
+       
+
+</RelativeLayout>

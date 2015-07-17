@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ripple="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+     <RelativeLayout
+            android:id="@+id/test_left_drawer"
+            android:layout_width="240dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="right"
+            android:background="#FFBBFF"
+            android:choiceMode="singleChoice"
+            android:divider="@android:color/transparent"
+            android:dividerHeight="0dp" >
+           <ListView
+                android:id="@+id/test_left_list"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_above="@+id/test_left_swith">
+            </ListView>
+            
+            <com.indris.material.RippleView
+                android:id="@+id/test_left_swith"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="swtith" 
+                android:layout_alignParentBottom="true"
+                android:gravity="center"
+            	android:padding="8dp"
+            	ripple:alphaFactor="0.7"
+            	ripple:rippleColor="#58FAAC"
+            	ripple:hover="true"
+                />
+        </RelativeLayout>
+
+</LinearLayout>

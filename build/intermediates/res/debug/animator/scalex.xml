@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:ordering="sequentially" >
+        <set android:ordering="together" >
+            <objectAnimator
+                android:duration="2000"
+                android:propertyName="translationX"
+       			android:repeatCount="infinite"
+                android:repeatMode="reverse"
+                android:valueTo="111"
+                android:valueType="floatType" >
+            </objectAnimator>
+            <objectAnimator
+                android:duration="2000"
+                android:repeatCount="infinite"
+                android:repeatMode="reverse"
+                android:propertyName="translationY"
+                android:valueTo="111"
+                android:valueType="floatType" >
+            </objectAnimator>
+        </set>
+        <set android:ordering="together" >
+            <objectAnimator
+                android:duration="2000"
+                android:repeatCount="infinite"
+                android:repeatMode="reverse"
+                android:propertyName="translationX"
+                android:valueTo="-25"
+                android:valueType="floatType" >
+            </objectAnimator>
+            <objectAnimator
+                android:duration="2000"
+                android:repeatCount="infinite"
+                android:repeatMode="reverse"
+                android:propertyName="translationY"
+                android:valueTo="251"
+                android:valueType="floatType" >
+            </objectAnimator>
+        </set>
+   
+    <!--
+    <objectAnimator
+        android:duration="2000"
+        android:propertyName="scaleX"
+        android:repeatCount="1"
+        android:repeatMode="reverse"
+        android:valueFrom="1.0"
+        android:valueTo="2.0" >
+    </objectAnimator>
+    <objectAnimator
+        android:duration="2000"
+        android:propertyName="scaleY"
+        android:repeatCount="1"
+        android:repeatMode="reverse"
+        android:valueFrom="1.0"
+        android:valueTo="2.0" >
+    </objectAnimator>
+    -->
+
+</set><!-- From: file:/F:/Android开发/MyWeather/res/animator/scalex.xml -->

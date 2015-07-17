@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Android开发.iml" filepath="$PROJECT_DIR$/../Android开发.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyWeather.iml" filepath="$PROJECT_DIR$/MyWeather.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../appcompat_v7/appcompat_v7.iml" filepath="$PROJECT_DIR$/../appcompat_v7/appcompat_v7.iml" />
+    </modules>
+  </component>
+</project>
+
