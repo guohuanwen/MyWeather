@@ -59,7 +59,7 @@
         
         <meta-data
             android:name="com.amap.api.v2.apikey"
-            android:value="4048dce6da79504efba2adf948a97382" />
+            android:value="61e5151e0453906685fa1d3581a4a0b4" />
         <!--4048dce6da79504efba2adf948a97382  自己sh-->
         <!--61e5151e0453906685fa1d3581a4a0b4  默认sh-->
     </application>

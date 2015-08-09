@@ -730,6 +730,9 @@ public class Fragment_main extends Fragment {
 		} else {
 			setLocation();
 			name = userDB.loadCity();
+			if(name.size()==0){
+				replaceFragment(new Fragment_chooseCity());
+			}
 		}
 		for (Object obj : name) {
 
@@ -860,7 +863,6 @@ public class Fragment_main extends Fragment {
 			setIButton();
 			setTMPText();
 			updateWidget();
-
 		} catch (Exception e) {
 			Log.i("Fragment_main", e.toString());
 		}

@@ -8,37 +8,37 @@ package com.db.williamchart;
 
 public final class R {
 	public static final class attr {
-		public static final int chart_axisBorderSpacing = 0x7f010008;
-		public static final int chart_axisColor = 0x7f010007;
-		public static final int chart_axisThickness = 0x7f010006;
-		public static final int chart_axisTopSpacing = 0x7f010009;
-		public static final int chart_barSpacing = 0x7f010012;
-		public static final int chart_fontSize = 0x7f01000c;
-		public static final int chart_labelColor = 0x7f01000b;
-		public static final int chart_labels = 0x7f01000a;
-		public static final int chart_setSpacing = 0x7f010013;
-		public static final int chart_shadowColor = 0x7f01000e;
-		public static final int chart_shadowDx = 0x7f01000f;
-		public static final int chart_shadowDy = 0x7f010010;
-		public static final int chart_shadowRadius = 0x7f010011;
-		public static final int chart_typeface = 0x7f01000d;
+		public static final int chart_axisBorderSpacing = 0x7f01005b;
+		public static final int chart_axisColor = 0x7f01005a;
+		public static final int chart_axisThickness = 0x7f010059;
+		public static final int chart_axisTopSpacing = 0x7f01005c;
+		public static final int chart_barSpacing = 0x7f010065;
+		public static final int chart_fontSize = 0x7f01005f;
+		public static final int chart_labelColor = 0x7f01005e;
+		public static final int chart_labels = 0x7f01005d;
+		public static final int chart_setSpacing = 0x7f010066;
+		public static final int chart_shadowColor = 0x7f010061;
+		public static final int chart_shadowDx = 0x7f010062;
+		public static final int chart_shadowDy = 0x7f010063;
+		public static final int chart_shadowRadius = 0x7f010064;
+		public static final int chart_typeface = 0x7f010060;
 	}
 	public static final class dimen {
-		public static final int axis_border_spacing = 0x7f070001;
-		public static final int axis_dist_from_label = 0x7f070000;
-		public static final int axis_thickness = 0x7f070003;
-		public static final int axis_top_spacing = 0x7f070002;
-		public static final int bar_spacing = 0x7f070007;
-		public static final int dot_region_radius = 0x7f070006;
-		public static final int font_size = 0x7f070004;
-		public static final int grid_thickness = 0x7f070005;
-		public static final int set_spacing = 0x7f070008;
+		public static final int axis_border_spacing = 0x7f070018;
+		public static final int axis_dist_from_label = 0x7f070017;
+		public static final int axis_thickness = 0x7f07001a;
+		public static final int axis_top_spacing = 0x7f070019;
+		public static final int bar_spacing = 0x7f07001e;
+		public static final int dot_region_radius = 0x7f07001d;
+		public static final int font_size = 0x7f07001b;
+		public static final int grid_thickness = 0x7f07001c;
+		public static final int set_spacing = 0x7f07001f;
 	}
 	public static final class styleable {
-		public static final int[] BarChartAttrs = { 0x7f010012, 0x7f010013 };
+		public static final int[] BarChartAttrs = { 0x7f010065, 0x7f010066 };
 		public static final int BarChartAttrs_chart_barSpacing = 0;
 		public static final int BarChartAttrs_chart_setSpacing = 1;
-		public static final int[] ChartAttrs = { 0x7f010006, 0x7f010007, 0x7f010008, 0x7f010009, 0x7f01000a, 0x7f01000b, 0x7f01000c, 0x7f01000d, 0x7f01000e, 0x7f01000f, 0x7f010010, 0x7f010011 };
+		public static final int[] ChartAttrs = { 0x7f010059, 0x7f01005a, 0x7f01005b, 0x7f01005c, 0x7f01005d, 0x7f01005e, 0x7f01005f, 0x7f010060, 0x7f010061, 0x7f010062, 0x7f010063, 0x7f010064 };
 		public static final int ChartAttrs_chart_axisBorderSpacing = 2;
 		public static final int ChartAttrs_chart_axisColor = 1;
 		public static final int ChartAttrs_chart_axisThickness = 0;

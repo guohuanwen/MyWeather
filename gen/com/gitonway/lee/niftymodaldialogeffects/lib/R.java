@@ -8,15 +8,15 @@ package com.gitonway.lee.niftymodaldialogeffects.lib;
 
 public final class R {
 	public static final class color {
-		public static final int btn_press_color = 0x7f080004;
-		public static final int btn_unpress_color = 0x7f080005;
-		public static final int dialog_bg = 0x7f080003;
-		public static final int divider_color = 0x7f080001;
-		public static final int msg_color = 0x7f080002;
-		public static final int text_color = 0x7f080000;
+		public static final int btn_press_color = 0x7f0a001d;
+		public static final int btn_unpress_color = 0x7f0a001e;
+		public static final int dialog_bg = 0x7f0a001c;
+		public static final int divider_color = 0x7f0a001a;
+		public static final int msg_color = 0x7f0a001b;
+		public static final int text_color = 0x7f0a0019;
 	}
 	public static final class dimen {
-		public static final int dialog_padding = 0x7f070009;
+		public static final int dialog_padding = 0x7f070020;
 	}
 	public static final class drawable {
 		public static final int btn_press = 0x7f02005d;
@@ -25,27 +25,27 @@ public final class R {
 		public static final int dialog_bg = 0x7f02008b;
 	}
 	public static final class id {
-		public static final int alertTitle = 0x7f0b0063;
-		public static final int button1 = 0x7f0b0054;
-		public static final int button2 = 0x7f0b0068;
-		public static final int contentPanel = 0x7f0b0065;
-		public static final int customPanel = 0x7f0b0067;
-		public static final int icon = 0x7f0b0039;
-		public static final int main = 0x7f0b005f;
-		public static final int message = 0x7f0b0066;
-		public static final int parentPanel = 0x7f0b0060;
-		public static final int titleDivider = 0x7f0b0064;
-		public static final int title_template = 0x7f0b0062;
-		public static final int topPanel = 0x7f0b0061;
+		public static final int alertTitle = 0x7f08006c;
+		public static final int button1 = 0x7f080058;
+		public static final int button2 = 0x7f080071;
+		public static final int contentPanel = 0x7f08006e;
+		public static final int customPanel = 0x7f080070;
+		public static final int icon = 0x7f08003d;
+		public static final int main = 0x7f080068;
+		public static final int message = 0x7f08006f;
+		public static final int parentPanel = 0x7f080069;
+		public static final int titleDivider = 0x7f08006d;
+		public static final int title_template = 0x7f08006b;
+		public static final int topPanel = 0x7f08006a;
 	}
 	public static final class layout {
-		public static final int dialog_layout = 0x7f03001e;
+		public static final int dialog_layout = 0x7f030020;
 	}
 	public static final class style {
-		public static final int AppBaseTheme = 0x7f090004;
-		public static final int DialogWindowTitle = 0x7f090000;
-		public static final int dialog_btn = 0x7f090003;
-		public static final int dialog_tran = 0x7f090001;
-		public static final int dialog_untran = 0x7f090002;
+		public static final int AppBaseTheme = 0x7f0d0005;
+		public static final int DialogWindowTitle = 0x7f0d0007;
+		public static final int dialog_btn = 0x7f0d000a;
+		public static final int dialog_tran = 0x7f0d0008;
+		public static final int dialog_untran = 0x7f0d0009;
 	}
 }

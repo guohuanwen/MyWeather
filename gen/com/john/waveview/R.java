@@ -8,26 +8,26 @@ package com.john.waveview;
 
 public final class R {
 	public static final class attr {
-		public static final int above_wave_color = 0x7f010035;
-		public static final int blow_wave_color = 0x7f010036;
-		public static final int progress = 0x7f010037;
-		public static final int waveViewStyle = 0x7f01003b;
-		public static final int wave_height = 0x7f010039;
-		public static final int wave_hz = 0x7f01003a;
-		public static final int wave_length = 0x7f010038;
+		public static final int above_wave_color = 0x7f01003f;
+		public static final int blow_wave_color = 0x7f010040;
+		public static final int progress = 0x7f010041;
+		public static final int waveViewStyle = 0x7f010045;
+		public static final int wave_height = 0x7f010043;
+		public static final int wave_hz = 0x7f010044;
+		public static final int wave_length = 0x7f010042;
 	}
 	public static final class id {
-		public static final int fast = 0x7f0b001b;
-		public static final int large = 0x7f0b0018;
-		public static final int little = 0x7f0b0019;
-		public static final int middle = 0x7f0b001a;
-		public static final int normal = 0x7f0b001c;
-		public static final int slow = 0x7f0b001d;
+		public static final int fast = 0x7f080017;
+		public static final int large = 0x7f080014;
+		public static final int little = 0x7f080015;
+		public static final int middle = 0x7f080016;
+		public static final int normal = 0x7f080018;
+		public static final int slow = 0x7f080019;
 	}
 	public static final class styleable {
-		public static final int[] Themes = { 0x7f01003b };
+		public static final int[] Themes = { 0x7f010045 };
 		public static final int Themes_waveViewStyle = 0;
-		public static final int[] WaveView = { 0x7f010035, 0x7f010036, 0x7f010037, 0x7f010038, 0x7f010039, 0x7f01003a };
+		public static final int[] WaveView = { 0x7f01003f, 0x7f010040, 0x7f010041, 0x7f010042, 0x7f010043, 0x7f010044 };
 		public static final int WaveView_above_wave_color = 0;
 		public static final int WaveView_blow_wave_color = 1;
 		public static final int WaveView_progress = 2;

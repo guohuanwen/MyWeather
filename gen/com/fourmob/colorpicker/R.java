@@ -8,27 +8,27 @@ package com.fourmob.colorpicker;
 
 public final class R {
 	public static final class dimen {
-		public static final int color_swatch_large = 0x7f070040;
-		public static final int color_swatch_margins_large = 0x7f070042;
-		public static final int color_swatch_margins_small = 0x7f070043;
-		public static final int color_swatch_small = 0x7f070041;
+		public static final int color_swatch_large = 0x7f070000;
+		public static final int color_swatch_margins_large = 0x7f070002;
+		public static final int color_swatch_margins_small = 0x7f070003;
+		public static final int color_swatch_small = 0x7f070001;
 	}
 	public static final class drawable {
 		public static final int color_picker_swatch = 0x7f020063;
 		public static final int ic_colorpicker_swatch_selected = 0x7f020096;
 	}
 	public static final class id {
-		public static final int color_picker = 0x7f0b000c;
-		public static final int color_picker_checkmark = 0x7f0b000e;
-		public static final int color_picker_swatch = 0x7f0b000d;
+		public static final int color_picker = 0x7f080000;
+		public static final int color_picker_checkmark = 0x7f080002;
+		public static final int color_picker_swatch = 0x7f080001;
 	}
 	public static final class layout {
 		public static final int color_picker_dialog = 0x7f030019;
 		public static final int color_picker_swatch = 0x7f03001a;
 	}
 	public static final class string {
-		public static final int color_picker_default_title = 0x7f0a0023;
-		public static final int color_swatch_description = 0x7f0a0021;
-		public static final int color_swatch_description_selected = 0x7f0a0022;
+		public static final int color_picker_default_title = 0x7f090002;
+		public static final int color_swatch_description = 0x7f090000;
+		public static final int color_swatch_description_selected = 0x7f090001;
 	}
 }

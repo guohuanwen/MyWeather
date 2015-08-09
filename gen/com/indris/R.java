@@ -8,22 +8,22 @@ package com.indris;
 
 public final class R {
 	public static final class attr {
-		public static final int alphaFactor = 0x7f0100e6;
-		public static final int hover = 0x7f0100e7;
-		public static final int rippleColor = 0x7f0100e5;
+		public static final int alphaFactor = 0x7f010037;
+		public static final int hover = 0x7f010038;
+		public static final int rippleColor = 0x7f010036;
 	}
 	public static final class drawable {
 		public static final int ic_launcher = 0x7f020097;
 	}
 	public static final class string {
-		public static final int app_name = 0x7f0a0020;
+		public static final int app_name = 0x7f090016;
 	}
 	public static final class style {
-		public static final int AppBaseTheme = 0x7f090004;
-		public static final int AppTheme = 0x7f0900fd;
+		public static final int AppBaseTheme = 0x7f0d0005;
+		public static final int AppTheme = 0x7f0d0006;
 	}
 	public static final class styleable {
-		public static final int[] RippleView = { 0x7f0100e5, 0x7f0100e6, 0x7f0100e7 };
+		public static final int[] RippleView = { 0x7f010036, 0x7f010037, 0x7f010038 };
 		public static final int RippleView_alphaFactor = 1;
 		public static final int RippleView_hover = 2;
 		public static final int RippleView_rippleColor = 0;
