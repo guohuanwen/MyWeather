@@ -1,3 +1,3 @@
 # MyWeather
-版本：v1.3
-天气软件，无聊练练手，别人家的服务器，不是很稳定，
+versioncode:5
+修复navigation bar遮挡ui，还存在部分问题
