@@ -121,6 +121,12 @@
                     chart:chart_labelColor="@color/label"
                     chart:chart_typeface="Roboto-Regular.ttf" >
                 </com.db.chart.view.LineChartView>
+                <ImageView
+                    android:id="@+id/imageview"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/touming"
+                    />
             </LinearLayout>
 
             <LinearLayout

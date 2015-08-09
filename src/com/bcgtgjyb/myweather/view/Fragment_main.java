@@ -17,6 +17,7 @@ import android.annotation.SuppressLint;
 import android.appwidget.AppWidgetManager;
 import android.content.ComponentName;
 import android.content.Context;
+import android.content.res.Resources;
 import android.graphics.DashPathEffect;
 import android.graphics.Paint;
 import android.graphics.Rect;
@@ -170,8 +171,8 @@ public class Fragment_main extends Fragment {
 		fragment_future = new Fragment_future();
 		myHandler = new MyHandler();
 		main_text = (TextView) view.findViewById(R.id.fragment_main_TV);
-		city=(TextView)view.findViewById(R.id.fragment_main_TV1);
-		
+		city = (TextView) view.findViewById(R.id.fragment_main_TV1);
+
 		netPresenter = new NetPresenter();
 		myPatten = new MyPatten();
 
@@ -210,9 +211,9 @@ public class Fragment_main extends Fragment {
 			main_text.setText(myPatten.getMath(weather.getEasyLowTmp()) + "°/"
 					+ myPatten.getMath(weather.getEasyHighTmp()) + "°");
 		}
-		List list=userDB.loadCity();
-		if(list.size()!=0){
-			city.setText((String)list.get(0));
+		List list = userDB.loadCity();
+		if (list.size() != 0) {
+			city.setText((String) list.get(0));
 		}
 	}
 
@@ -297,7 +298,8 @@ public class Fragment_main extends Fragment {
 		mPullRefreshScrollView.setScrollingWhileRefreshingEnabled(true);
 		mPullRefreshScrollView
 				.setOnRefreshListener(new OnRefreshListener<ScrollView>() {
-					public void onRefresh(PullToRefreshBase<ScrollView> refreshView) {
+					public void onRefresh(
+							PullToRefreshBase<ScrollView> refreshView) {
 						new GetDataTask().execute();
 					}
 				});
@@ -312,8 +314,8 @@ public class Fragment_main extends Fragment {
 			// Simulates a background job.
 			try {
 				if (netPresenter.isConnect() == 1) {
-				getDate();
-				}else{
+					getDate();
+				} else {
 					sendMessage(14);
 				}
 			} catch (Exception e) {
@@ -575,7 +577,22 @@ public class Fragment_main extends Fragment {
 		}
 	}
 
+	private int getNavigationBarHeight() {
+		Resources resources = getActivity().getResources();
+		int resourceId = resources.getIdentifier("navigation_bar_height",
+				"dimen", "android");
+		int height = resources.getDimensionPixelSize(resourceId);
+		
+		Log.v("dbw", "Navi height:" + height);
+		return height;
+	}
+
 	private void setRelHeight() {
+		ImageView imageView=(ImageView)view.findViewById(R.id.imageview);
+		
+		LinearLayout.LayoutParams params = new LinearLayout.LayoutParams(LayoutParams.MATCH_PARENT, getNavigationBarHeight());
+		
+		
 		relativeLayout2 = (RelativeLayout) view
 				.findViewById(R.id.fragment_main_Rel2);
 		int screenWidth, screenHeight;
@@ -612,6 +629,8 @@ public class Fragment_main extends Fragment {
 				+ "*" + sbar);
 		relativeLayout2.setLayoutParams(new LayoutParams(screenWidth,
 				screenHeight - actionBarHeight - sbar));
+		
+		imageView.setLayoutParams(params);
 	}
 
 	public class MyHandler extends Handler {
@@ -670,7 +689,7 @@ public class Fragment_main extends Fragment {
 			case 6:
 				Log.i("Fragment_main", "6");
 				// 左边的定位天气情况
-				
+
 				break;
 			case 7:
 				Log.i("Fragment_main", "7");
@@ -730,7 +749,7 @@ public class Fragment_main extends Fragment {
 		} else {
 			setLocation();
 			name = userDB.loadCity();
-			if(name.size()==0){
+			if (name.size() == 0) {
 				replaceFragment(new Fragment_chooseCity());
 			}
 		}
@@ -743,47 +762,42 @@ public class Fragment_main extends Fragment {
 		}
 		int re1 = 0, re2 = 0, re3 = 0, re4 = 0;
 
-		
-			try {
-				re4 = netPresenter.getOpenWeatherNet((String) cityCode.get(0));
-			} catch (Exception e) {
-				Log.e("Fragment_main", e.toString());
-			}
-			try {
-				re2 = netPresenter.getResp((String) cityCode.get(0));
-			} catch (Exception e) {
-				Log.e("Fragment_main", e.toString());
-			}
+		try {
+			re4 = netPresenter.getOpenWeatherNet((String) cityCode.get(0));
+		} catch (Exception e) {
+			Log.e("Fragment_main", e.toString());
+		}
+		try {
+			re2 = netPresenter.getResp((String) cityCode.get(0));
+		} catch (Exception e) {
+			Log.e("Fragment_main", e.toString());
+		}
 
-			try {
-				re3 = netPresenter.getWeatherJson((String) cityName.get(0));
-			} catch (Exception e) {
-				Log.e("Fragment_main", e.toString());
-			}
-			if (re4 == 0) {
-				sendMessage(12);
-			}
-			if (re2 == 0) {
-				sendMessage(13);
-			} 
-			if (re3 == 0) {
-				sendMessage(10);
-			}
-			if(re2==1||re3==1||re4==1){
-				getNetNowWeather();
-			}
-//				if(re1==1){
-//					NowWeather nowWeather = respDB.loadNowWeather();
-//					setStartUiDate(nowWeather.getCity(), nowWeather.getWeather(),
-//							nowWeather.getHumidity(), nowWeather.getWindDir(),
-//							nowWeather.getWindPower());
-//				}
-			
-			
-	} 
-	
+		try {
+			re3 = netPresenter.getWeatherJson((String) cityName.get(0));
+		} catch (Exception e) {
+			Log.e("Fragment_main", e.toString());
+		}
+		if (re4 == 0) {
+			sendMessage(12);
+		}
+		if (re2 == 0) {
+			sendMessage(13);
+		}
+		if (re3 == 0) {
+			sendMessage(10);
+		}
+		if (re2 == 1 || re3 == 1 || re4 == 1) {
+			getNetNowWeather();
+		}
+		// if(re1==1){
+		// NowWeather nowWeather = respDB.loadNowWeather();
+		// setStartUiDate(nowWeather.getCity(), nowWeather.getWeather(),
+		// nowWeather.getHumidity(), nowWeather.getWindDir(),
+		// nowWeather.getWindPower());
+		// }
 
-
+	}
 
 	private void setIButton() {
 		MyTime myTime = new MyTime();
@@ -1016,10 +1030,6 @@ public class Fragment_main extends Fragment {
 		Log.i("Fragment_main", "onDetach");
 		super.onDetach();
 	}
-
-	
-		
-	
 
 	private int re;
 	private LocationWeather locationWeather;
