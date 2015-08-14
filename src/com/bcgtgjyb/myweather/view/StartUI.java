@@ -76,7 +76,7 @@ public class StartUI extends ActionBarActivity implements View.OnClickListener {
 		replaceFragment(fragment_main);
 		Log.i("StartUI", "3");
 		if(!(new Test5().getSHA1())){
-//			finish();
+			finish();
 		};
 	}
 
