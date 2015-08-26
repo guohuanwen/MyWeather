@@ -1,7 +1,9 @@
 # MyWeather
 ##版本：v1.3  天气软件，无聊练练手，别人家的服务器，不是很稳定<br>
+####Please import the [otherLibrary](https://github.com/guohuanwen/MyWeather/tree/master/otherLibrary) first,then import the project  
+
 ##链接
-[下载地址](http://shouji.baidu.com/soft/item?docid=7805224&from=&f=search_app_知音天气%40list_1_title%404%40header_all_input)
+[Download](http://shouji.baidu.com/soft/item?docid=7805224&from=&f=search_app_知音天气%40list_1_title%404%40header_all_input)
 <br>
 ##截图
 ![](https://github.com/guohuanwen/MyWeather/blob/master/screenshot/1.png)
