@@ -1,0 +1,22 @@
+int attr above_wave_color 0x7f010000
+int attr blow_wave_color 0x7f010001
+int attr progress 0x7f010002
+int attr waveViewStyle 0x7f010006
+int attr wave_height 0x7f010004
+int attr wave_hz 0x7f010005
+int attr wave_length 0x7f010003
+int id fast 0x7f020003
+int id large 0x7f020000
+int id little 0x7f020001
+int id middle 0x7f020002
+int id normal 0x7f020004
+int id slow 0x7f020005
+int[] styleable Themes { 0x7f010006 }
+int styleable Themes_waveViewStyle 0
+int[] styleable WaveView { 0x7f010000, 0x7f010001, 0x7f010002, 0x7f010003, 0x7f010004, 0x7f010005 }
+int styleable WaveView_above_wave_color 0
+int styleable WaveView_blow_wave_color 1
+int styleable WaveView_progress 2
+int styleable WaveView_wave_height 4
+int styleable WaveView_wave_hz 5
+int styleable WaveView_wave_length 3
