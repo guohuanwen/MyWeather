@@ -35,9 +35,14 @@
 ![](https://github.com/diogobernardino/WilliamChart/raw/master/art/linechart.gif)
     
     
-##你可能学到的
-####html，json解析存储
-####UI界调整，开源库整合等
+##你可能学到的  
+
+####html，json解析
+####多线程
+####UI界面调整优化
+####开源库整合
+####基础的网络连接
+####Fragment Activity通信
     
     
     
