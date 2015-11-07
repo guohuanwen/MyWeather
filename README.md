@@ -1,5 +1,5 @@
 # MyWeather
-##版本：v1.3  天气软件，无聊练练手，别人家的服务器，不是很稳定<br>
+##版本：v1.3  天气软件，无聊练练手，别人家的服务器，不是很稳定（eclipse）<br>
 ####Please import the [otherLibrary](https://github.com/guohuanwen/MyWeather/tree/master/otherLibrary) first,then import the project  
 
 ##链接
